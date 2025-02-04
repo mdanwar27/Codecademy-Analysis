@@ -12,11 +12,11 @@ This project analyzes Codecademy student enrollment, course popularity, trends a
 4. Detect patterns in student engagement over time.
 5. Provide data-driven insights for course improvements.
 
-**📂 Data Source :**
+**📊 Key Insights :**
 
-The data for this analysis was sourced from the official Codecademy website, through web scraping.
-
-You can download the Scrapped Jupyter Notebook File directly from the https://github.com/mdanwar27/Codecademy-Analysis/releases/download/notebook-v1/Scrapping_Codecademy-Final.ipynb
+1. ✅ Trends show an increase in interest in AI, Data Science, and Cloud Computing courses.
+2. ✅ Advanced courses have fewer enrollments.
+3. ✅ Most popular courses are typically beginner-friendly and related to programming languages like C and Python.
 
 **💡 Suggestions & Improvements :**
 
