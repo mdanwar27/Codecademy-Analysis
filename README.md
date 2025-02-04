@@ -38,3 +38,8 @@ This project is for educational purposes only. Data sourced from Codecademy's of
 
 ```bash
 pip install python
+```
+
+```bash
+pip install numpy
+```
