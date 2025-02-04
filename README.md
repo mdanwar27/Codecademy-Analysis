@@ -27,5 +27,4 @@ To run the Jupyter Notebook locally, follow these steps:
 Make sure you have Python 3.x installed. If not, download it from Python.org. Then, install Jupyter Notebook using:
 
 ```bash
-
 pip install jupyterlab
