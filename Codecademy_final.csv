@@ -1,0 +1,1413 @@
+,Path,Title,Modules,Certificate,Level,Hours,Enrolled,Salary,Review,Ratings
+0,Course,Learn Prompt Engineering,,With Certificate,Beginner Friendly,1,,,,
+1,Free course,Learn the OpenAI API Playground,,,Beginner Friendly,1,"1,384 learners enrolled",,,
+2,Course,OpenAI API Coding with JavaScript,,With Certificate,Intermediate,1,,,,
+3,Course,OpenAI API Coding with Python,,With Certificate,Intermediate,1,"1,033 learners enrolled",,,
+4,Course,Unit Test Development with Generative AI,,With Certificate,Intermediate,1,,,,
+5,Free course,Generative AI on AWS: Deploying & Managing GenAI Services on AWS,,,Intermediate,1,,,,
+6,Free course,Generative AI on AWS: Creating Intelligent Chatbots,,,Intermediate,1,,,,
+7,Free course,Generative AI & the Azure Bot AI Service,,,Intermediate,1,,,,
+8,Free course,Generative AI on AWS: Generating Speech with Amazon Polly,,,Intermediate,1,,,,
+9,Course,Finetuning Transformer Models,,With Certificate,Intermediate,2,"1,144 learners enrolled",,,
+10,Free course,Deep Dive Into Generative AI with Azure OpenAI,,,Intermediate,2,,,,
+11,Free course,Generative AI on AWS: Generating Code with Amazon CodeWhisperer,,,Intermediate,1,,,,
+12,Free course,Generative AI on GCP: Building Generative AI-powered Apps in GCP,,,Intermediate,1,,,,
+13,Free course,Generative AI on AWS: Building GenAI Models with Amazon Bedrock,,,Intermediate,1,,,,
+14,Free course,Generative AI on GCP: Deep Dive Into Generative AI Studio,,,Intermediate,2,,,,
+15,Free course,Creating documents efficiently with Copilot for Microsoft 365,,,Beginner Friendly,1,,,,
+16,Course,PyTorch for Classification,,With Certificate,Beginner Friendly,3,"1,780 learners enrolled",,,
+17,Free course,Generative AI on AWS: Building GenAI Models with Amazon SageMaker,,,Intermediate,2,,,,
+18,Free course,Optimizing communication & information with Copilot for Microsoft 365,,,Beginner Friendly,1,,,,
+19,Free course,Generative AI on GCP: Harnessing Generative AI with Vertex AI,,,Intermediate,1,,,,
+20,Skill path,Build a Machine Learning Model,Includes 10 Courses,With Certificate,Beginner Friendly,23,"2,911 learners enrolled",,,
+21,Free course,Using OpenAI APIs: Accessing OpenAI APIs from Python,,,Beginner Friendly,2,,,,
+22,Free course,Using OpenAI APIs: Using Image & Audio APIs,,,Intermediate,1,,,,
+23,Free course,"Using OpenAI APIs: Fine-tuning Models, the Assistants API, & Embeddings",,,Intermediate,1,,,,
+24,Free course,Using OpenAI APIs: Exploring APIs with the OpenAI Playground,,,Beginner Friendly,2,,,,
+25,Free course,Generative AI Models: Getting Started with Autoencoders,,,Intermediate,2,,,,
+26,Course,Defending Against AI-Generated Attacks,,With Certificate,Beginner Friendly,1,"1,490 learners enrolled",,4.4,56 ratings
+27,Free course,Generative AI Models: Generating Data Using Generative Adversarial Networks,,,Intermediate,2,,,,
+28,Free course,Generative AI Models: Generating Data Using Variational Autoencoders,,,Intermediate,1,,,,
+29,Free course,Intro to AI Transformers,,,Intermediate,2,"2,390 learners enrolled",,,
+30,Free course,Generative AI on GCP: Empowering Machine Language Workflows with Vertex AI,,,Intermediate,2,,,,
+31,Free course,Intro to Midjourney,,,Beginner Friendly,1,"2,085 learners enrolled",,4,105 ratings
+32,Free course,Learning Django Using Generative AI Help,,,Beginner Friendly,2,,,,
+33,Free course,Generative AI on GCP: An Introduction,,,Beginner Friendly,2,,,,
+34,Free course,Creating Django Views & Models,,,Intermediate,2,,,,
+35,Free course,Prompt Engineering to Build a Django App,,,Intermediate,2,,,,
+36,Free course,Prompt Engineering: Covering Tracks with GenAI,,,Intermediate,1,,,,
+37,Free course,Optimizing Code with Generative AI Case Study,,,Beginner Friendly,1,"2,985 learners enrolled",,4.3,105 ratings
+38,Free course,Prompt Engineering: Mobile Platform Security in the GenAI Era,,,Intermediate,1,,,,
+39,Free course,Generative AI on AWS: Getting Started,,,Intermediate,1,,,,
+40,Free course,Intro to PyTorch and Neural Networks,,,Intermediate,3,"3,635 learners enrolled",,4.6,68 ratings
+41,Free course,Streamline Resume Creation with Generative AI Case Study,,,Beginner Friendly,1,"1,639 learners enrolled",,4.3,68 ratings
+42,Free course,Creating Quick STEAM Activities with Generative AI Case Study,,,Beginner Friendly,1,,,,
+43,Free course,Pair Programming with Generative AI Case Study,,,Beginner Friendly,1,,,,
+44,Free course,Unit Testing with Generative AI Case Study,,,Beginner Friendly,1,,,,
+45,Free course,Differentiate for Language and Reading Level With Generative AI Case Study,,,Beginner Friendly,1,,,,
+46,Free course,Debug Python Code with Generative AI Case Study,,,Beginner Friendly,1,,,,
+47,Free course,Write a Sales Outreach Email with Generative AI Case Study,,,Beginner Friendly,1,,,,
+48,Free course,Prompt Engineering: Cloud Computing & IoT Hacking in the Era of GenAI,,,Intermediate,2,,,,
+49,Free course,Prompt Engineering: Web Application & Database Hacking in the Age of GenAI,,,Intermediate,2,,,,
+50,Free course,Prompt Engineering: GenAI's Impact on Network & Perimeter Ethical Hacking,,,Intermediate,1,,,,
+51,Free course,Generative AI with Azure OpenAI,,,Beginner Friendly,1,,,,
+52,Free course,Intro to Hugging Face,,,Beginner Friendly,1,"2,979 learners enrolled",,4.2,122 ratings
+53,Free course,Introduction to Generative AI on Azure,,,Beginner Friendly,1,,,,
+54,Free course,Discovering Copilot for Windows 11,,,Beginner Friendly,1,,,,
+55,Free course,Learn How to Use AI for Data Analysis,,,Intermediate,1,"2,809 learners enrolled",,,
+56,Free course,Intro to GitHub Copilot,,,Intermediate,1,"2,342 learners enrolled",,4.5,94 ratings
+57,Free course,Prompt Engineering: Generative AI for Malware & Social Engineering,,,Intermediate,1,,,,
+58,Free course,Prompt Engineering: Generative AI for System Hacking,,,Intermediate,1,,,,
+59,Free course,Embracing Risk and Learning from Setbacks with AI Projects,,,Beginner Friendly,1,,,,
+60,Free course,Prompt Engineering: Generative AI for Scanning & Enumeration,,,Intermediate,1,,,,
+61,Free course,Prompt Engineering: Generative AI for Reconnaissance,,,Intermediate,1,,,,
+62,Free course,Prompt Engineering: Ethical Hacking & Generative AI Fusion,,,Intermediate,1,,,,
+63,Free course,Leading through the AI Disruption with Empathy,,,Beginner Friendly,1,,,,
+64,Free course,Encouraging Innovation and Experimentation with AI,,,Beginner Friendly,1,,,,
+65,Free course,Intro to OpenAI API,,,Beginner Friendly,1,"7,398 learners enrolled",,4.2,219 ratings
+66,Free course,Leading in the Age of Generative AI,,,Beginner Friendly,1,,,,
+67,Free course,Intro to Large Language Models (LLMs),,,Beginner Friendly,1,"4,757 learners enrolled",,4.2,169 ratings
+68,Free course,Intro to AI Strategy,,,Beginner Friendly,1,"2,631 learners enrolled",,4.3,151 ratings
+69,Free course,Creating Marketing Assets with Generative AI Case Study,,,Beginner Friendly,1,"1,492 learners enrolled",,4.4,53 ratings
+70,Free course,Learn How to Use AI for Coding,,,Beginner Friendly,1,"4,840 learners enrolled",,4.4,95 ratings
+71,Free course,Navigating AI Ethical Challenges and Risks,,,Beginner Friendly,1,,,,
+72,Free course,"Recognizing Hallucinations, Inaccuracies, and Bias in AI",,,Beginner Friendly,1,,,,
+73,Free course,Intro to Generative AI,,,Beginner Friendly,1,"46,029 learners enrolled",,4.2,"2,731 ratings"
+74,Free course,Learn How to Use AI for Marketing,,,Beginner Friendly,1,"4,776 learners enrolled",,4.4,200 ratings
+75,Course,Language Models in Python: Basic Chatbots,,,Intermediate,6,,,,
+76,Course,Language Models in Python: Generative Chatbots,,,Intermediate,1,"1,074 learners enrolled",,,
+77,Free course,Intro to Language Models in Python,,,Intermediate,4,"3,546 learners enrolled",,,
+78,Course,Deep Learning with TensorFlow: Image Classification,,,Intermediate,2,"1,091 learners enrolled",,,
+79,Course,Deep Learning with TensorFlow: Classification,,,Intermediate,2,,,,
+80,Free course,Intro to Deep Learning with TensorFlow,,,Intermediate,4,"3,784 learners enrolled",,4.6,70 ratings
+81,Free course,The Role of ChatGPT in Shaping Our Future,,,Beginner Friendly,1,,,,
+82,Free course,Learn How to Use ChatGPT,,,Beginner Friendly,1,"85,537 learners enrolled",,4.3,"3,109 ratings"
+83,Free course,Learn Recommender Systems,,,Intermediate,1,"1,974 learners enrolled",,4.2,97 ratings
+84,Free course,Machine Learning: Perceptrons,,,Beginner Friendly,1,"3,137 learners enrolled",,4.4,88 ratings
+85,Free course,Analyze Taylor Swift Lyrics with Python Case Study,,,Beginner Friendly,1,"5,458 learners enrolled",,4.1,75 ratings
+86,Skill path,Data and Programming Foundations for AI,Includes 9 Courses,With Certificate,Beginner Friendly,38,"23,909 learners enrolled",,,
+87,Career path,Machine Learning/AI Engineer,Includes 7 Courses,With Certificate,Intermediate,50,"24,224 learners enrolled","$127,000",,
+88,Career path,Data Scientist: Natural Language Processing Specialist,Includes 31 Courses,With Certificate,Beginner Friendly,100,"12,617 learners enrolled","$125,000",,
+89,Free course,Machine Learning: Artificial Intelligence Decision Making with Minimax,,,Advanced,2,"3,889 learners enrolled",,4.5,50 ratings
+90,Course,Language Models in Python: Generative Text,,With Certificate,Intermediate,1,"3,607 learners enrolled",,,
+91,Skill path,Build Deep Learning Models with TensorFlow,Includes 7 Courses,With Certificate,Intermediate,10,"15,286 learners enrolled",,,
+92,Free course,Explainable AI,,,Intermediate,1,,,,
+93,Skill path,Build Chatbots with Python,Includes 6 Courses,With Certificate,Beginner Friendly,28,"50,162 learners enrolled",,,
+94,Course,Getting Started with Natural Language Processing,,With Certificate,Beginner Friendly,1,"24,414 learners enrolled",,4.3,205 ratings
+95,Course,Learn Python 3,,With Certificate,Beginner Friendly,23,"2,517,022 learners enrolled",,4.6,"9,378 ratings"
+96,Free course,Learn to Program Alexa,,,Beginner Friendly,2,"23,046 learners enrolled",,,
+97,Free course,Learn Conversational Design with Alexa,,,Intermediate,3,"2,653 learners enrolled",,,
+98,Skill path,Software Engineering for Data Scientists,Includes 7 Courses,With Certificate,Intermediate,22,"4,616 learners enrolled",,,
+99,Course,Learn the Command Line,,With Certificate,Beginner Friendly,4,"190,274 learners enrolled",,4.6,"6,104 ratings"
+100,Course,Learn Git & GitHub,,With Certificate,Beginner Friendly,4,"126,342 learners enrolled",,4.5,"1,653 ratings"
+101,Course,Learn Bash Scripting,,With Certificate,Intermediate,1,"40,982 learners enrolled",,4.2,"1,067 ratings"
+102,Free course,Intro to the Command Line,,,Beginner Friendly,1,"6,808 learners enrolled",,4.7,373 ratings
+103,Free course,Learn the Command Line: Viewing and Changing the File System,,,Beginner Friendly,1,"3,117 learners enrolled",,4.6,109 ratings
+104,Free course,Learn the Command Line: Redirecting Input and Output,,,Beginner Friendly,1,"2,533 learners enrolled",,4.6,91 ratings
+105,Free course,Learn the Command Line: Configuring the Environment,,,Beginner Friendly,1,"2,353 learners enrolled",,4.6,112 ratings
+106,Free course,Learn Raspberry Pi,,,Beginner Friendly,2,"10,018 learners enrolled",,4.3,105 ratings
+107,Free course,Getting Started Off-Platform for Data Science,,,Beginner Friendly,1,"19,488 learners enrolled",,4.3,244 ratings
+108,Free course,Learn Raspberry Pi: Command Line,,,Beginner Friendly,1,"1,175 learners enrolled",,,
+109,Free course,Learn Raspberry Pi: Electronics,,,Beginner Friendly,1,"1,146 learners enrolled",,4.5,60 ratings
+110,Free course,Learn Raspberry Pi: Introduction,,,Beginner Friendly,1,"1,305 learners enrolled",,,
+111,Skill path,Learn C,Includes 6 Courses,With Certificate,Beginner Friendly,11,"16,176 learners enrolled",,,
+112,Free course,Learn C: Introduction,,,Beginner Friendly,1,"38,660 learners enrolled",,4.4,"2,479 ratings"
+113,Free course,Learn C: Pointers and Memory,,,Beginner Friendly,1,"15,626 learners enrolled",,4.5,371 ratings
+114,Free course,Learn C: Variables and Operators,,,Beginner Friendly,2,"9,536 learners enrolled",,4.5,286 ratings
+115,Free course,Learn C: Conditionals and Loops,,,Beginner Friendly,2,"6,436 learners enrolled",,4.7,141 ratings
+116,Free course,Learn C: Arrays and Strings,,,Beginner Friendly,2,"6,836 learners enrolled",,4.7,144 ratings
+117,Free course,Learn C: Functions and Structures,,,Beginner Friendly,3,"6,701 learners enrolled",,4.6,93 ratings
+118,Skill path,Build Web Apps with ASP.NET,Includes 7 Courses,With Certificate,Intermediate,34,"20,130 learners enrolled",,,
+119,Free course,Learn C#,,,Beginner Friendly,21,"567,650 learners enrolled",,4.4,"2,752 ratings"
+120,Free course,Learn C#: Introduction,,,Beginner Friendly,5,"14,504 learners enrolled",,4.3,518 ratings
+121,Free course,"Learn C#: Classes, Objects, Interfaces, and Inheritance",,,Beginner Friendly,5,"5,706 learners enrolled",,4.6,147 ratings
+122,Free course,Learn C#: Lists and LINQ,,,Beginner Friendly,2,"3,094 learners enrolled",,4.6,128 ratings
+123,Course,Learn ASP.NET,,With Certificate,Intermediate,13,"17,722 learners enrolled",,4,52 ratings
+124,Free course,Learn C#: Methods,,,Beginner Friendly,3,"2,513 learners enrolled",,4.6,83 ratings
+125,Free course,Learn C#: Arrays and Loops,,,Beginner Friendly,3,"3,158 learners enrolled",,4.3,70 ratings
+126,Free course,Learn C#: References,,,Beginner Friendly,2,"1,738 learners enrolled",,,
+127,Free course,Learn C++,,,Beginner Friendly,11,"895,584 learners enrolled",,4.4,"8,047 ratings"
+128,Free course,Learn C++: Introduction,,,Beginner Friendly,4,"16,683 learners enrolled",,4.6,711 ratings
+129,Free course,C++ for Programmers,,,Intermediate,3,"48,197 learners enrolled",,4.4,658 ratings
+130,Free course,Learn C++: Classes and Objects,,,Beginner Friendly,1,"6,480 learners enrolled",,4.4,210 ratings
+131,Free course,Learn C++: References and Pointers,,,Beginner Friendly,1,"4,905 learners enrolled",,4.6,191 ratings
+132,Free course,Learn C++: Loops,,,Beginner Friendly,1,"4,439 learners enrolled",,4.5,158 ratings
+133,Free course,Learn C++: Functions,,,Beginner Friendly,3,"4,278 learners enrolled",,4.4,90 ratings
+134,Free course,Learn C++: Vectors,,,Beginner Friendly,1,"4,384 learners enrolled",,4.6,141 ratings
+135,Course,Learn Python 3,,With Certificate,Beginner Friendly,23,"2,517,022 learners enrolled",,4.6,"9,378 ratings"
+136,Free course,Learn Java,,,Beginner Friendly,16,"1,125,540 learners enrolled",,4.4,"8,613 ratings"
+137,Course,Intro to Cloud Computing,,With Certificate,Beginner Friendly,1,"20,589 learners enrolled",,4.4,"1,131 ratings"
+138,Course,Learn ASP.NET,,With Certificate,Intermediate,13,"17,722 learners enrolled",,4,52 ratings
+139,Free course,Google Associate Cloud Engineer: Google Virtual Private Cloud,,,Intermediate,2,,,,
+140,Free course,CompTIA Cloud Essentials+: Cloud Licensing Models & Risk Mitigation,,,Intermediate,1,,,,
+141,Free course,CompTIA Cloud Essentials+: Contracting with Cloud Service Providers,,,Intermediate,1,,,,
+142,Free course,Microsoft Azure Fundamentals: Migrating to Microsoft Azure,,,Intermediate,1,,,,
+143,Free course,CompTIA Cloud Essentials+: Cloud Native Apps & Cloud Data Analytics,,,Intermediate,1,,,,
+144,Free course,Google Associate Cloud Engineer: Implementing Google Kubernetes Engine,,,Intermediate,1,,,,
+145,Free course,AWS Cloud Practitioner 2023: AWS Storage Services,,,Intermediate,1,,,,
+146,Free course,Google Associate Cloud Engineer: Google Cloud Resource Manager,,,Intermediate,1,,,,
+147,Free course,Microsoft Azure Fundamentals: Monitoring Azure Services,,,Intermediate,1,,,,
+148,Free course,CompTIA Cloud Essentials+: Cloud Migration Strategies,,,Intermediate,1,,,,
+149,Free course,Google Associate Cloud Engineer: Implementing Google App Engine,,,Intermediate,1,,,,
+150,Free course,Microsoft Azure Fundamentals: Managing Azure Authentication,,,Intermediate,1,,,,
+151,Free course,AWS Cloud Practitioner 2023: AWS Database Services,,,Beginner Friendly,1,,,,
+152,Free course,CompTIA Cloud Essentials+: Essential Cloud Networking,,,Beginner Friendly,2,,,,
+153,Free course,Microsoft Azure Fundamentals: Azure Service Resilience,,,Intermediate,1,,,,
+154,Free course,Google Associate Cloud Engineer: Google Identity & Access Management (IAM),,,Intermediate,2,,,,
+155,Free course,CompTIA Cloud Essentials+: Cloud Adoption to Enhance Business Value,,,Intermediate,1,,,,
+156,Free course,Google Associate Cloud Engineer: Managing Google Compute Engine,,,Intermediate,1,,,,
+157,Free course,AWS Cloud Practitioner 2023: AWS Network Services,,,Intermediate,1,,,,
+158,Free course,Microsoft Azure Fundamentals: Azure Management Tools,,,Intermediate,1,,,,
+159,Free course,AWS Cloud Practitioner 2023: Components & Resources for Security,,,Beginner Friendly,1,,,,
+160,Free course,CompTIA Cloud Essentials+: DevOps in the Cloud,,,Intermediate,1,,,,
+161,Free course,Microsoft Azure Fundamentals: Azure Virtual Machines,,,Intermediate,2,,,,
+162,Free course,AWS Cloud Practitioner 2023: Migration to the AWS Cloud & Cloud Economics,,,Beginner Friendly,1,,,,
+163,Free course,AWS Cloud Practitioner 2023: Shared Responsibility & Compliance,,,Beginner Friendly,1,,,,
+164,Free course,AWS Cloud Practitioner 2023: Benefits & Design Principles of the AWS Cloud,,,Beginner Friendly,1,,,,
+165,Free course,Generative AI on AWS: Getting Started,,,Intermediate,1,,,,
+166,Free course,Generative AI on AWS: Building GenAI Models with Amazon Bedrock,,,Intermediate,1,,,,
+167,Free course,Generative AI on AWS: Deploying & Managing GenAI Services on AWS,,,Intermediate,1,,,,
+168,Free course,AWS Cloud Practitioner 2023: Technical & Support Resources at AWS,,,Beginner Friendly,1,,,,
+169,Free course,Generative AI with Azure OpenAI,,,Beginner Friendly,1,,,,
+170,Free course,Generative AI on GCP: Harnessing Generative AI with Vertex AI,,,Intermediate,1,,,,
+171,Free course,Generative AI on GCP: Building Generative AI-powered Apps in GCP,,,Intermediate,1,,,,
+172,Free course,AWS Cloud Practitioner 2023: Deploying & Operating in the AWS Cloud,,,Beginner Friendly,1,,,,
+173,Free course,CompTIA Cloud Essentials+: Gap Analysis & Cloud Assessment,,,Intermediate,1,,,,
+174,Free course,AWS Cloud Practitioner 2023: Overview of Cloud Security,,,Intermediate,1,,,,
+175,Free course,CompTIA Cloud Essentials+: Cloud Governance & Securing Data,,,Intermediate,2,,,,
+176,Free course,CompTIA Cloud Essentials+: Operations within Cloud,,,Intermediate,1,,,,
+177,Free course,CompTIA Cloud Essentials+: Cloud Design Considerations,,,Intermediate,1,,,,
+178,Free course,CompTIA Cloud Essentials+: Cloud Storage Technologies,,,Beginner Friendly,1,,,,
+179,Free course,CompTIA Cloud Essentials+: Cloud Connectivity & Load Balancing,,,Beginner Friendly,1,,,,
+180,Free course,CompTIA Cloud Essentials+: Essential Cloud Principles,,,Beginner Friendly,1,,,,
+181,Free course,CompTIA Cloud Essentials+: Security Considerations,,,Intermediate,1,,,,
+182,Free course,Google Associate Cloud Engineer: Configuring Google Cloud,,,Intermediate,1,,,,
+183,Free course,"AWS Cloud Practitioner 2023: ML, AI, & Data Analytics",,,Intermediate,1,,,,
+184,Free course,Generative AI on AWS: Generating Code with Amazon CodeWhisperer,,,Intermediate,1,,,,
+185,Free course,Microsoft Azure Fundamentals: Azure Network Infrastructure,,,Intermediate,2,,,,
+186,Free course,AWS Cloud Practitioner 2023: AWS Compute Services,,,Beginner Friendly,1,,,,
+187,Free course,"AWS Cloud Practitioner 2023: Pricing, Billing, Budgeting, & Cost Management",,,Beginner Friendly,1,,,,
+188,Free course,Google Associate Cloud Engineer: Implementing Google Compute Engine,,,Intermediate,1,,,,
+189,Free course,Microsoft Azure Fundamentals: AZ-900 Exam Preparation,,,Intermediate,1,,,,
+190,Free course,Microsoft Azure Fundamentals: Azure App Service,,,Intermediate,1,,,,
+191,Free course,Microsoft Azure Fundamentals: Managing the Microsoft Azure Hierarchy,,,Intermediate,1,,,,
+192,Free course,Microsoft Azure Fundamentals: Azure RBAC & Azure Policy,,,Intermediate,1,,,,
+193,Free course,Microsoft Azure Fundamentals: Managing Azure Storage,,,Intermediate,2,,,,
+194,Free course,AWS Cloud Practitioner 2023: Automation & Managed Services,,,Beginner Friendly,1,,,,
+195,Free course,Microsoft Azure Fundamentals: Azure VNet Peering & VPNs,,,Intermediate,1,,,,
+196,Free course,AWS Cloud Practitioner 2023: AWS Developer Services & Tools,,,Intermediate,1,,,,
+197,Free course,Google Associate Cloud Engineer: Google Cloud Platform Ecosystem,,,Intermediate,1,,,,
+198,Free course,CompTIA Cloud Essentials+: Utilizing Cloud Services,,,Intermediate,1,,,,
+199,Free course,Microsoft Azure Fundamentals: Managing Azure AD,,,Intermediate,1,,,,
+200,Free course,Microsoft Azure Fundamentals: Cloud Computing,,,Intermediate,1,,,,
+201,Free course,Microsoft Azure Fundamentals: Managing Azure Costs,,,Intermediate,1,,,,
+202,Free course,Microsoft Azure Fundamentals: Azure Container Solutions,,,Intermediate,1,,,,
+203,Free course,Microsoft Azure Fundamentals: Azure Network Security,,,Intermediate,1,,,,
+204,Free course,Microsoft Azure Fundamentals: Azure Software Development Services,,,Intermediate,1,,,,
+205,Free course,AWS Cloud Practitioner 2023: Access Management,,,Beginner Friendly,1,,,,
+206,Free course,Microsoft Azure Fundamentals: Azure Files,,,Intermediate,1,,,,
+207,Free course,Google Associate Cloud Engineer: Google Cloud Load Balancing,,,Intermediate,1,,,,
+208,Free course,Google Associate Cloud Engineer: Managing Google App Engine,,,Intermediate,1,,,,
+209,Free course,Google Associate Cloud Engineer: Google Cloud Operations Suite,,,Intermediate,2,,,,
+210,Free course,Google Associate Cloud Engineer: Implementing Google Cloud Storage,,,Intermediate,1,,,,
+211,Free course,Google Associate Cloud Engineer: Managing Google Kubernetes Engine,,,Intermediate,1,,,,
+212,Free course,Google Associate Cloud Engineer: Managing Google Cloud Storage,,,Intermediate,1,,,,
+213,Free course,Generative AI on AWS: Creating Intelligent Chatbots,,,Intermediate,1,,,,
+214,Free course,Generative AI on AWS: Building GenAI Models with Amazon SageMaker,,,Intermediate,2,,,,
+215,Free course,Generative AI on AWS: Generating Speech with Amazon Polly,,,Intermediate,1,,,,
+216,Free course,Introduction to Generative AI on Azure,,,Beginner Friendly,1,,,,
+217,Free course,Deep Dive Into Generative AI with Azure OpenAI,,,Intermediate,2,,,,
+218,Free course,Generative AI & the Azure Bot AI Service,,,Intermediate,1,,,,
+219,Free course,Generative AI on GCP: An Introduction,,,Beginner Friendly,2,,,,
+220,Free course,Generative AI on GCP: Empowering Machine Language Workflows with Vertex AI,,,Intermediate,2,,,,
+221,Free course,Generative AI on GCP: Deep Dive Into Generative AI Studio,,,Intermediate,2,,,,
+222,Skill path,Code Foundations,Includes 5 Courses,With Certificate,Beginner Friendly,4,"199,871 learners enrolled",,,
+223,Course,Learn Python 3,,With Certificate,Beginner Friendly,23,"2,517,022 learners enrolled",,4.6,"9,378 ratings"
+224,Free course,Learn JavaScript,,,Beginner Friendly,15,"2,132,265 learners enrolled",,4.5,"27,114 ratings"
+225,Free course,Learn Java,,,Beginner Friendly,16,"1,125,540 learners enrolled",,4.4,"8,613 ratings"
+226,Free course,Learn Python 2,,,Beginner Friendly,17,"1,008,578 learners enrolled",,4.3,"6,565 ratings"
+227,Free course,Learn C#,,,Beginner Friendly,21,"567,650 learners enrolled",,4.4,"2,752 ratings"
+228,Free course,Learn How to Code,,,Beginner Friendly,2,"468,089 learners enrolled",,4.5,"6,757 ratings"
+229,Free course,Learn Lua,,,Beginner Friendly,4,"62,211 learners enrolled",,4.5,"2,431 ratings"
+230,Free course,Learn What to Learn,,,Beginner Friendly,2,"87,358 learners enrolled",,4.6,"1,710 ratings"
+231,Free course,Learn Swift,,,Beginner Friendly,12,"160,815 learners enrolled",,4.7,827 ratings
+232,Free course,Learn Intermediate JavaScript,,,Intermediate,10,"91,932 learners enrolled",,4.4,"1,964 ratings"
+233,Free course,Learn to Code with Blockly,,,Beginner Friendly,2,"95,075 learners enrolled",,4.4,"1,455 ratings"
+234,Course,Learn the Command Line,,With Certificate,Beginner Friendly,4,"190,274 learners enrolled",,4.6,"6,104 ratings"
+235,Free course,Learn Ruby,,,Beginner Friendly,9,"167,029 learners enrolled",,4.5,"2,448 ratings"
+236,Free course,Choosing a Career in Tech,,,Beginner Friendly,1,"36,096 learners enrolled",,4.6,"3,052 ratings"
+237,Free course,Welcome To Codecademy,,,Beginner Friendly,1,"1,129,002 learners enrolled",,4.4,848 ratings
+238,Free course,Learn JavaScript: Fundamentals,,,Beginner Friendly,4,"14,522 learners enrolled",,4.7,806 ratings
+239,Free course,Choosing a Programming Language,,,Beginner Friendly,1,"22,609 learners enrolled",,4.6,"1,735 ratings"
+240,Course,Intro to Cloud Computing,,With Certificate,Beginner Friendly,1,"20,589 learners enrolled",,4.4,"1,131 ratings"
+241,Free course,Learn JavaScript: Asynchronous Programming ,,,Beginner Friendly,3,"23,264 learners enrolled",,4.5,347 ratings
+242,Free course,Learn JavaScript: Functions and Scope,,,Beginner Friendly,3,"4,098 learners enrolled",,4.7,163 ratings
+243,Free course,Learn JavaScript: Classes and Modules,,,Beginner Friendly,4,"3,026 learners enrolled",,4.7,82 ratings
+244,Free course,Learn JavaScript: Objects,,,Beginner Friendly,3,"3,822 learners enrolled",,4.7,97 ratings
+245,Free course,Learn JavaScript: Arrays and Loops,,,Beginner Friendly,3,"3,926 learners enrolled",,4.6,119 ratings
+246,Free course,Learn JavaScript: Best Practices,,,Beginner Friendly,1,"3,507 learners enrolled",,4.2,155 ratings
+247,Free course,Learn JavaScript: Requests,,,Beginner Friendly,2,"2,361 learners enrolled",,4.7,58 ratings
+248,Free course,Learn JavaScript: Iterators,,,Beginner Friendly,2,"2,564 learners enrolled",,4.7,82 ratings
+249,Course,Learn Hardware Programming with CircuitPython,,With Certificate,Beginner Friendly,2,"6,840 learners enrolled",,,
+250,Career path,Computer Science,Includes 6 Courses,With Professional Certification,Beginner Friendly,75,"171,521 learners enrolled","$115,000",,
+251,Skill path,Pass the Technical Interview with JavaScript,Includes 8 Courses,With Certificate,Intermediate,13,"23,176 learners enrolled",,,
+252,Skill path,Pass the Technical Interview with Java,Includes 8 Courses,With Certificate,Intermediate,19,"15,506 learners enrolled",,,
+253,Skill path,Pass the Technical Interview with Python,Includes 8 Courses,With Certificate,Intermediate,25,"20,801 learners enrolled",,,
+254,Skill path,Learn C,Includes 6 Courses,With Certificate,Beginner Friendly,11,"16,176 learners enrolled",,,
+255,Course,Learn Python 3,,With Certificate,Beginner Friendly,23,"2,517,022 learners enrolled",,4.6,"9,378 ratings"
+256,Free course,Learn Java,,,Beginner Friendly,16,"1,125,540 learners enrolled",,4.4,"8,613 ratings"
+257,Free course,Learn C++,,,Beginner Friendly,11,"895,584 learners enrolled",,4.4,"8,047 ratings"
+258,Free course,Learn Python 2,,,Beginner Friendly,17,"1,008,578 learners enrolled",,4.3,"6,565 ratings"
+259,Free course,Learn C#,,,Beginner Friendly,21,"567,650 learners enrolled",,4.4,"2,752 ratings"
+260,Free course,Introduction to Game Development,,,Beginner Friendly,1,"92,932 learners enrolled",,4.3,"3,746 ratings"
+261,Free course,Learn C: Introduction,,,Beginner Friendly,1,"38,660 learners enrolled",,4.4,"2,479 ratings"
+262,Free course,Learn to Code with Blockly,,,Beginner Friendly,2,"95,075 learners enrolled",,4.4,"1,455 ratings"
+263,Course,Learn Intermediate Python 3,,With Certificate,Intermediate,20,"61,043 learners enrolled",,4.2,"1,038 ratings"
+264,Course,Learn the Command Line,,With Certificate,Beginner Friendly,4,"190,274 learners enrolled",,4.6,"6,104 ratings"
+265,Free course,Python for Programmers,,,Intermediate,3,"79,284 learners enrolled",,4.2,"1,628 ratings"
+266,Free course,Choosing a Career in Tech,,,Beginner Friendly,1,"36,096 learners enrolled",,4.6,"3,052 ratings"
+267,Course,Learn Git & GitHub,,With Certificate,Beginner Friendly,4,"126,342 learners enrolled",,4.5,"1,653 ratings"
+268,Free course,Learn PowerShell,,,Beginner Friendly,6,"18,898 learners enrolled",,4.3,361 ratings
+269,Free course,Learn Intermediate Java,,,Intermediate,10,"34,440 learners enrolled",,4.3,447 ratings
+270,Free course,Intro to Generative AI,,,Beginner Friendly,1,"46,029 learners enrolled",,4.2,"2,731 ratings"
+271,Free course,Learn C++: Introduction,,,Beginner Friendly,4,"16,683 learners enrolled",,4.6,711 ratings
+272,Free course,Learn C: Pointers and Memory,,,Beginner Friendly,1,"15,626 learners enrolled",,4.5,371 ratings
+273,Free course,Learn C: Variables and Operators,,,Beginner Friendly,2,"9,536 learners enrolled",,4.5,286 ratings
+274,Free course,Introduction to IT,,,Beginner Friendly,3,"31,399 learners enrolled",,4.4,783 ratings
+275,Free course,Learn How to Use ChatGPT,,,Beginner Friendly,1,"85,537 learners enrolled",,4.3,"3,109 ratings"
+276,Free course,Learn Intermediate Python 3: Object-Oriented Programming,,,Intermediate,2,"11,695 learners enrolled",,4.5,303 ratings
+277,Free course,Learn C#: Introduction,,,Beginner Friendly,5,"14,504 learners enrolled",,4.3,518 ratings
+278,Free course,Learn How to Use AI for Coding,,,Beginner Friendly,1,"4,840 learners enrolled",,4.4,95 ratings
+279,Free course,Learn Git: Introduction,,,Beginner Friendly,1,"7,366 learners enrolled",,4.6,485 ratings
+280,Course,Introduction to Linux,,With Certificate,Intermediate,4,"18,771 learners enrolled",,4.3,331 ratings
+281,Free course,Choosing a Programming Language,,,Beginner Friendly,1,"22,609 learners enrolled",,4.6,"1,735 ratings"
+282,Free course,Intro to the Command Line,,,Beginner Friendly,1,"6,808 learners enrolled",,4.7,373 ratings
+283,Free course,Learn C: Conditionals and Loops,,,Beginner Friendly,2,"6,436 learners enrolled",,4.7,141 ratings
+284,Free course,Learn MongoDB,,,Beginner Friendly,5,"13,143 learners enrolled",,4.6,361 ratings
+285,Free course,Learn the Basics of Regular Expressions,,,Beginner Friendly,1,"7,059 learners enrolled",,4.7,514 ratings
+286,Free course,Learn C: Arrays and Strings,,,Beginner Friendly,2,"6,836 learners enrolled",,4.7,144 ratings
+287,Free course,Learn the Command Line: Viewing and Changing the File System,,,Beginner Friendly,1,"3,117 learners enrolled",,4.6,109 ratings
+288,Free course,Computer Architecture: Assembly Language,,,Beginner Friendly,1,"6,120 learners enrolled",,4,111 ratings
+289,Free course,Discrete Math,,,Intermediate,5,"14,725 learners enrolled",,,
+290,Free course,Java for Programmers,,,Intermediate,1,"25,328 learners enrolled",,4.4,182 ratings
+291,Free course,Learn C++: Classes and Objects,,,Beginner Friendly,1,"6,480 learners enrolled",,4.4,210 ratings
+292,Free course,Learn C: Functions and Structures,,,Beginner Friendly,3,"6,701 learners enrolled",,4.6,93 ratings
+293,Course,Learn Advanced Python 3,,With Certificate,Advanced,6,"13,992 learners enrolled",,4.5,248 ratings
+294,Free course,Introduction to Linux: Bash Scripting,,,Intermediate,3,"4,802 learners enrolled",,4.5,81 ratings
+295,Free course,"Learn C#: Classes, Objects, Interfaces, and Inheritance",,,Beginner Friendly,5,"5,706 learners enrolled",,4.6,147 ratings
+296,Free course,Learn C++: References and Pointers,,,Beginner Friendly,1,"4,905 learners enrolled",,4.6,191 ratings
+297,Free course,Learn the Basics of Programming with Codecademy,,,Beginner Friendly,1,"3,233 learners enrolled",,,
+298,Free course,Learn the Command Line: Redirecting Input and Output,,,Beginner Friendly,1,"2,533 learners enrolled",,4.6,91 ratings
+299,Free course,Learn C++: Loops,,,Beginner Friendly,1,"4,439 learners enrolled",,4.5,158 ratings
+300,Free course,Learn C#: Lists and LINQ,,,Beginner Friendly,2,"3,094 learners enrolled",,4.6,128 ratings
+301,Free course,Learn the Command Line: Configuring the Environment,,,Beginner Friendly,1,"2,353 learners enrolled",,4.6,112 ratings
+302,Free course,Learn C++: Functions,,,Beginner Friendly,3,"4,278 learners enrolled",,4.4,90 ratings
+303,Free course,Learn C++: Vectors,,,Beginner Friendly,1,"4,384 learners enrolled",,4.6,141 ratings
+304,Free course,Learn Intermediate Python 3: Exceptions and Unit Testing,,,Intermediate,4,"2,902 learners enrolled",,4.6,55 ratings
+305,Free course,"Learn Intermediate Python 3: Functions, Namespaces, and Scope",,,Intermediate,4,"3,015 learners enrolled",,4.6,76 ratings
+306,Free course,Introduction to Blockchain and Crypto,,,Beginner Friendly,1,"10,596 learners enrolled",,4.3,264 ratings
+307,Free course,Learn Git: Branching and Collaboration,,,Beginner Friendly,1,"2,335 learners enrolled",,4.7,109 ratings
+308,Free course,Rust for Programmers,,,Intermediate,1,"11,987 learners enrolled",,3.9,107 ratings
+309,Free course,Introduction to Personal Digital Security,,,Beginner Friendly,1,"4,235 learners enrolled",,4.4,379 ratings
+310,Free course,Learn Raspberry Pi,,,Beginner Friendly,2,"10,018 learners enrolled",,4.3,105 ratings
+311,Free course,Learn Intermediate Java: JUnit Testing,,,Intermediate,1,"1,752 learners enrolled",,4.6,87 ratings
+312,Free course,Machine Learning: Artificial Intelligence Decision Making with Minimax,,,Advanced,2,"3,889 learners enrolled",,4.5,50 ratings
+313,Course,Defending Against AI-Generated Attacks,,With Certificate,Beginner Friendly,1,"1,490 learners enrolled",,4.4,56 ratings
+314,Free course,Learn Object Oriented Programming with Python & Project-Based Learning,,,Beginner Friendly,1,"5,794 learners enrolled",,4.4,128 ratings
+315,Free course,Learn Intermediate Python 3: Iterators and Generators,,,Intermediate,4,"1,703 learners enrolled",,,
+316,Free course,Fundamentals of Operating Systems,,,Beginner Friendly,2,"8,425 learners enrolled",,4.3,168 ratings
+317,Free course,Learn Advanced Python 3: Functional Programming,,,Advanced,2,"1,827 learners enrolled",,,
+318,Free course,Introduction to Linux: Users and Permissions,,,Intermediate,1,"1,157 learners enrolled",,4.6,73 ratings
+319,Free course,Learn Emojicode,,,Beginner Friendly,1,"10,998 learners enrolled",,,
+320,Free course,Intro to OpenAI API,,,Beginner Friendly,1,"7,398 learners enrolled",,4.2,219 ratings
+321,Free course,Learn GitHub: Introduction,,,Beginner Friendly,1,"3,937 learners enrolled",,4.4,157 ratings
+322,Free course,Learn Intermediate Java: Generics and Collections,,,Intermediate,3,"1,354 learners enrolled",,,
+323,Course,Learn Advanced Java,,With Certificate,Advanced,2,"7,136 learners enrolled",,4.2,76 ratings
+324,Course,Learn the Basics of Blockchain with Python,,With Certificate,Beginner Friendly,2,"33,901 learners enrolled",,4.1,158 ratings
+325,Free course,Learn C#: Methods,,,Beginner Friendly,3,"2,513 learners enrolled",,4.6,83 ratings
+326,Free course,Computer Architecture: Introduction,,,Beginner Friendly,2,"1,647 learners enrolled",,4.1,50 ratings
+327,Free course,Learn Java: Debugging,,,Beginner Friendly,1,"1,464 learners enrolled",,4.4,52 ratings
+328,Free course,Learn C#: Arrays and Loops,,,Beginner Friendly,3,"3,158 learners enrolled",,4.3,70 ratings
+329,Course,Technical Interview Practice with Python,,With Certificate,Intermediate,6,"27,036 learners enrolled",,,
+330,Free course,Learn GitHub: Best Practices,,,Beginner Friendly,1,"1,417 learners enrolled",,4.5,65 ratings
+331,Free course,Learn Advanced Python 3: Database Operations,,,Advanced,1,"1,481 learners enrolled",,,
+332,Free course,Learn Advanced Python 3: Concurrency,,,Advanced,1,"1,323 learners enrolled",,,
+333,Free course,Learn Raspberry Pi: Command Line,,,Beginner Friendly,1,"1,175 learners enrolled",,,
+334,Course,Learn Recursion with Python,,With Certificate,Intermediate,3,"11,958 learners enrolled",,,
+335,Course,Learn Advanced Algorithms and Data Structures with Python,,With Certificate,Advanced,6,"2,862 learners enrolled",,,
+336,Free course,Learn Advanced Python 3: Logging,,,Advanced,1,"1,117 learners enrolled",,,
+337,Free course,Learn Intermediate Java: Threading,,,Intermediate,1,"1,047 learners enrolled",,,
+338,Free course,Learn C#: References,,,Beginner Friendly,2,"1,738 learners enrolled",,,
+339,Course,Computer Architecture,,With Certificate,Intermediate,5,"8,212 learners enrolled",,,
+340,Free course,Learn Intermediate Python 3: Sets and Specialized Collections,,,Intermediate,5,"1,071 learners enrolled",,,
+341,Free course,Introduction to Open Source,,,Beginner Friendly,1,"3,321 learners enrolled",,4.4,148 ratings
+342,Free course,Discrete Math: Proofs,,,Beginner Friendly,1,,,,
+343,Free course,Computer Architecture: Instruction Set Architecture,,,Beginner Friendly,1,,,,
+344,Free course,Discrete Math: Binary and Bases,,,Beginner Friendly,1,,,,
+345,Free course,Learn Raspberry Pi: Electronics,,,Beginner Friendly,1,"1,146 learners enrolled",,4.5,60 ratings
+346,Free course,Learn Intermediate Java: Input and Output,,,Intermediate,1,,,,
+347,Free course,Learn Intermediate Python 3: Resource Management,,,Intermediate,2,,,,
+348,Free course,Learn Intermediate Java: Serialization,,,Intermediate,2,,,,
+349,Free course,Computer Architecture: Cache Memory,,,Beginner Friendly,1,,,,
+350,Free course,Learn Raspberry Pi: Introduction,,,Beginner Friendly,1,"1,305 learners enrolled",,,
+351,Free course,Learn Advanced Data Structures with Python: Trees,,,Advanced,1,"1,100 learners enrolled",,,
+352,Free course,Discrete Math: Counting Theory,,,Beginner Friendly,1,,,,
+353,Free course,Intro to GitHub Copilot,,,Intermediate,1,"2,342 learners enrolled",,4.5,94 ratings
+354,Free course,Learn Intermediate Java: Regular Expressions,,,Intermediate,1,,,,
+355,Free course,Discrete Math: Sequences and Summations,,,Beginner Friendly,1,,,,
+356,Free course,Intro to Midjourney,,,Beginner Friendly,1,"2,085 learners enrolled",,4,105 ratings
+357,Free course,Discrete Math: Recurrence Relations,,,Beginner Friendly,1,,,,
+358,Free course,Discrete Math: Sets and Set Operations,,,Beginner Friendly,1,,,,
+359,Free course,Introduction to Linux: Installation,,,Intermediate,1,"1,173 learners enrolled",,4.4,69 ratings
+360,Free course,Operating Systems: Filesystems,,,Beginner Friendly,1,,,,
+361,Free course,Discrete Math: Permutations and Combinations,,,Beginner Friendly,1,,,,
+362,Free course,Learn Intermediate Java: Nested Classes,,,Intermediate,1,,,,
+363,Course,Learn Complex Data Structures,,With Certificate,Intermediate,7,"9,615 learners enrolled",,,
+364,Free course,Learn Advanced Algorithms with Python: Hamiltonian Algorithms,,,Advanced,1,,,,
+365,Free course,Learn Advanced Data Structures with Python: Deques,,,Advanced,1,,,,
+366,Course,How to Implement Search Algorithms with Python,,With Certificate,Intermediate,2,"4,564 learners enrolled",,,
+367,Free course,Learn Advanced Algorithms with Python: String Searching Algorithms,,,Advanced,3,,,,
+368,Free course,Discrete Math: Congruences,,,Beginner Friendly,1,,,,
+369,Free course,Deploying Websites using Git and GitHub,,,Beginner Friendly,1,"1,487 learners enrolled",,4.4,128 ratings
+370,Free course,Learn LOLCODE,,,Intermediate,1,,,,
+371,Free course,Computer Architecture: Parallel Computing,,,Beginner Friendly,1,,,,
+372,Course,Learn Sorting Algorithms with Python,,With Certificate,Intermediate,3,"6,577 learners enrolled",,,
+373,Course,Learn Hardware Programming with CircuitPython,,With Certificate,Beginner Friendly,2,"6,840 learners enrolled",,,
+374,Free course,Operating Systems: Processes,,,Beginner Friendly,1,,,,
+375,Free course,Operating Systems: Process Synchronization and Memory Management,,,Beginner Friendly,1,,,,
+376,Free course,Operating Systems: IO Systems,,,Beginner Friendly,1,,,,
+377,Free course,Operating Systems: Introduction,,,Beginner Friendly,1,"1,922 learners enrolled",,4.4,162 ratings
+378,Free course,Learn the OpenAI API Playground,,,Beginner Friendly,1,"1,384 learners enrolled",,,
+379,Skill path,Securing Express Applications,Includes 5 Courses,With Certificate,Intermediate,8,"4,557 learners enrolled",,,
+380,Skill path,Fundamentals of Cybersecurity,Includes 5 Courses,With Certificate,Beginner Friendly,3,"15,494 learners enrolled",,,
+381,Skill path,Fundamentals of Cyber Resilience and Risk Management,Includes 6 Courses,With Certificate,Beginner Friendly,1,"2,723 learners enrolled",,,
+382,Skill path,Cybersecurity Analyst Interview Prep,Includes 8 Courses,With Certificate,Intermediate,2,"2,184 learners enrolled",,,
+383,Skill path,Scan Systems with Nmap,Includes 5 Courses,With Certificate,Beginner Friendly,4,"5,356 learners enrolled",,,
+384,Free course,Introduction to Cybersecurity,,,Beginner Friendly,3,"145,045 learners enrolled",,4.5,"2,950 ratings"
+385,Course,Introduction To Ethical Hacking,,With Certificate,Beginner Friendly,1,"23,676 learners enrolled",,4.5,559 ratings
+386,Free course,Introduction to Personal Digital Security,,,Beginner Friendly,1,"4,235 learners enrolled",,4.4,379 ratings
+387,Free course,OWASP Top 10: Injection Attacks,,,Intermediate,1,"2,724 learners enrolled",,4.5,52 ratings
+388,Free course,User Authentication & Authorization in Express,,,Intermediate,5,"6,831 learners enrolled",,4.4,62 ratings
+389,Course,Defending Against AI-Generated Attacks,,With Certificate,Beginner Friendly,1,"1,490 learners enrolled",,4.4,56 ratings
+390,Course,Cybersecurity for Business,,With Certificate,Beginner Friendly,1,"2,611 learners enrolled",,4.6,112 ratings
+391,Free course,Learn About CSRF Attacks,,,Beginner Friendly,1,"1,179 learners enrolled",,4.3,107 ratings
+392,Course,"Defending Node Applications from SQL Injection, XSS, & CSRF Attacks",,With Certificate,Intermediate,2,"2,334 learners enrolled",,,
+393,Course,Unit Test Development with Generative AI,,With Certificate,Intermediate,1,,,,
+394,Free course,OWASP Top 10: Server Side Request Forgery,,,Intermediate,1,,,,
+395,Course,Learn to Prevent Cross-Site Scripting with Node.js,,With Certificate,Intermediate,1,,,,
+396,Course,Learn to Prevent SQL Injections with Node.js,,With Certificate,Intermediate,1,"1,068 learners enrolled",,,
+397,Free course,OWASP Top 10: Security Misconfiguration,,,Beginner Friendly,1,,,,
+398,Free course,OWASP Top 10: Security Logging and Monitoring Failures,,,Beginner Friendly,1,,,,
+399,Free course,OWASP Top 10: Broken Access Control,,,Intermediate,1,"1,058 learners enrolled",,,
+400,Free course,OWASP Top 10: Identification and Authentication Failures,,,Beginner Friendly,1,,,,
+401,Free course,OWASP Top 10: Software and Data Integrity Failures,,,Beginner Friendly,1,,,,
+402,Free course,Prompt Engineering: Ethical Hacking & Generative AI Fusion,,,Intermediate,1,,,,
+403,Free course,Prompt Engineering: Generative AI for Reconnaissance,,,Intermediate,1,,,,
+404,Free course,Prompt Engineering: Generative AI for Scanning & Enumeration,,,Intermediate,1,,,,
+405,Free course,Prompt Engineering: Generative AI for System Hacking,,,Intermediate,1,,,,
+406,Free course,Prompt Engineering: Generative AI for Malware & Social Engineering,,,Intermediate,1,,,,
+407,Free course,Prompt Engineering: GenAI's Impact on Network & Perimeter Ethical Hacking,,,Intermediate,1,,,,
+408,Free course,Prompt Engineering: Web Application & Database Hacking in the Age of GenAI,,,Intermediate,2,,,,
+409,Free course,Prompt Engineering: Cloud Computing & IoT Hacking in the Era of GenAI,,,Intermediate,2,,,,
+410,Free course,Prompt Engineering: Mobile Platform Security in the GenAI Era,,,Intermediate,1,,,,
+411,Free course,Prompt Engineering: Covering Tracks with GenAI,,,Intermediate,1,,,,
+412,Free course,CompTIA Security+: Architecture & Infrastructure Concepts,,,Beginner Friendly,1,,,,
+413,Free course,"CompTIA Security+: Audits, Assessments, & Awareness",,,Beginner Friendly,1,,,,
+414,Free course,"CompTIA Security+: Automation, Orchestration, & Incident Response",,,Beginner Friendly,1,,,,
+415,Free course,CompTIA Security+: Computing Resources Security Techniques,,,Beginner Friendly,1,,,,
+416,Free course,CompTIA Security+: Data Protection Concepts & Strategies,,,Beginner Friendly,1,,,,
+417,Free course,CompTIA Security+: Effective Security Governance,,,Beginner Friendly,1,,,,
+418,Free course,CompTIA Security+: Enterprise Infrastructure Security Principles,,,Beginner Friendly,1,,,,
+419,Free course,CompTIA Security+: Enterprise Security Capabilities,,,Beginner Friendly,1,,,,
+420,Free course,CompTIA Security+: Fundamental Security Concepts,,,Beginner Friendly,1,,,,
+421,Free course,CompTIA Security+: Identity and Access Management,,,Beginner Friendly,1,,,,
+422,Free course,CompTIA Security+: Mitigation Techniques,,,Beginner Friendly,1,,,,
+423,Free course,CompTIA Security+: Practical Cryptography,,,Beginner Friendly,1,,,,
+424,Free course,CompTIA Security+: Resilience & Recovery,,,Beginner Friendly,1,,,,
+425,Free course,CompTIA Security+: Risk Management,,,Beginner Friendly,1,,,,
+426,Free course,CompTIA Security+: Security Compliance & Third-Party Risk,,,Beginner Friendly,1,,,,
+427,Free course,CompTIA Security+: Security Goals & Controls,,,Beginner Friendly,1,,,,
+428,Free course,CompTIA Security+: Security Monitoring & Alerting,,,Beginner Friendly,1,,,,
+429,Free course,CompTIA Security+: Survey of Malicious Activities,,,Beginner Friendly,1,,,,
+430,Free course,CompTIA Security+: Threat Actors & Vectors,,,Beginner Friendly,1,,,,
+431,Free course,CompTIA Security+: Vulnerability Management,,,Beginner Friendly,1,,,,
+432,Free course,DevSecOps and Containers,,,Intermediate,1,,,,
+433,Free course,DevSecOps in AWS,,,Intermediate,1,,,,
+434,Free course,DevSecOps in Azure,,,Intermediate,1,,,,
+435,Free course,DevSecOps in Continuous Integration & Delivery (CI/CD),,,Intermediate,1,,,,
+436,Free course,DevSecOps in GCP,,,Intermediate,1,,,,
+437,Free course,DevSecOps Methodologies,,,Intermediate,1,,,,
+438,Free course,DevSecOps On-premises,,,Intermediate,2,,,,
+439,Free course,DevSecOps Principles: From DevOps to DevSecOps,,,Intermediate,1,,,,
+440,Free course,Enterprise Security: AI in Authentication & Detection of Security Threats,,,Intermediate,3,,,,
+441,Free course,"Enterprise Security: Artificial Intelligence, Generative AI, & Cybersecurity",,,Intermediate,2,,,,
+442,Free course,Enterprise Security: Leveraging AI in Identity Security,,,Intermediate,1,,,,
+443,Free course,Enterprise Security: Leveraging AI to Enhance Email Security,,,Intermediate,1,,,,
+444,Free course,Enterprise Security: Leveraging AI to Protect & Validate User Data,,,Intermediate,2,,,,
+445,Free course,Enterprise Security: Leveraging Generative AI with Common Security Tools,,,Intermediate,2,,,,
+446,Free course,Enterprise Security: Using AI for Intrusion Detection & Prevention,,,Intermediate,2,,,,
+447,Free course,Important DevSecOps Tools,,,Intermediate,1,,,,
+448,Free course,Security Principles for DevSecOps,,,Beginner Friendly,2,,,,
+449,Free course,The DevSecOps Life Cycle,,,Intermediate,2,,,,
+450,Career path,Business Intelligence Data Analyst,Includes 18 Courses,With Certificate,Beginner Friendly,50,"26,567 learners enrolled","$87,000",,
+451,Career path,Data Scientist: Analytics Specialist,Includes 22 Courses,With Professional Certification,Beginner Friendly,70,"58,805 learners enrolled","$125,000",,
+452,Career path,Data Scientist: Inference Specialist,Includes 24 Courses,With Certificate,Beginner Friendly,80,"7,073 learners enrolled","$125,000",,
+453,Skill path,Learn Python for Data Science,Includes 5 Courses,With Certificate,Beginner Friendly,16,"4,733 learners enrolled",,,
+454,Skill path,Analyze Data with Python,Includes 8 Courses,With Certificate,Intermediate,13,"4,364 learners enrolled",,,
+455,Skill path,Master Statistics with Python,Includes 9 Courses,With Certificate,Intermediate,26,"11,142 learners enrolled",,,
+456,Skill path,Data Science Foundations,Includes 15 Courses,With Certificate,Beginner Friendly,54,"27,706 learners enrolled",,,
+457,Skill path,Analyze Data with R,Includes 7 Courses,With Certificate,Beginner Friendly,21,"16,151 learners enrolled",,,
+458,Skill path,Visualize Data with Python,Includes 6 Courses,With Certificate,Beginner Friendly,7,"2,851 learners enrolled",,,
+459,Course,Learn Python 3,,With Certificate,Beginner Friendly,23,"2,517,022 learners enrolled",,4.6,"9,378 ratings"
+460,Free course,Learn SQL,,,Beginner Friendly,5,"922,044 learners enrolled",,4.6,"17,535 ratings"
+461,Free course,Learn R,,,Beginner Friendly,14,"258,964 learners enrolled",,4.5,"1,545 ratings"
+462,Free course,Getting Started with Python for Data Science,,,Beginner Friendly,7,"60,281 learners enrolled",,4.6,858 ratings
+463,Free course,Introduction to Big Data with PySpark,,,Beginner Friendly,4,"5,612 learners enrolled",,4.4,202 ratings
+464,Free course,Learn How to Use AI for SQL,,,Beginner Friendly,1,,,,
+465,Free course,Python for Data Science: Working with Data,,,Beginner Friendly,9,"8,180 learners enrolled",,4.6,106 ratings
+466,Free course,Learn Microsoft Excel for Data Analysis,,,Beginner Friendly,2,"13,414 learners enrolled",,4.3,422 ratings
+467,Course,BI Dashboards with Power BI,,With Certificate,Beginner Friendly,1,"13,453 learners enrolled",,4.1,802 ratings
+468,Free course,Learn Tableau for Data Visualization,,,Beginner Friendly,1,"8,977 learners enrolled",,4.4,309 ratings
+469,Course,Analyze Data with Microsoft Excel,,With Certificate,Beginner Friendly,1,"7,700 learners enrolled",,4.1,420 ratings
+470,Free course,Probability,,,Beginner Friendly,4,"28,553 learners enrolled",,4.3,96 ratings
+471,Free course,Analyze Taylor Swift Lyrics with Python Case Study,,,Beginner Friendly,1,"5,458 learners enrolled",,4.1,75 ratings
+472,Course,Exploratory Data Analysis in Python,,With Certificate,Beginner Friendly,5,"5,914 learners enrolled",,,
+473,Free course,Principles of Data Literacy,,,Beginner Friendly,3,"4,810 learners enrolled",,4.4,220 ratings
+474,Free course,Excel Basics,,,Beginner Friendly,1,"6,515 learners enrolled",,4.4,417 ratings
+475,Free course,Analyze NFL Stats with Python Case Study,,,Beginner Friendly,1,"5,469 learners enrolled",,4.3,91 ratings
+476,Course,BI Dashboards with Tableau,,With Certificate,Beginner Friendly,1,"6,267 learners enrolled",,4.3,198 ratings
+477,Free course,"Statistics: Mean, Median, Mode",,,Beginner Friendly,1,,,,
+478,Free course,Simple Linear Regression,,,Beginner Friendly,2,,,,
+479,Free course,Multiple Linear Regression,,,Beginner Friendly,3,,,,
+480,Free course,Visualize Data with Excel,,,Beginner Friendly,1,"2,045 learners enrolled",,4.5,113 ratings
+481,Free course,Data Manipulation in Excel,,,Beginner Friendly,1,"2,331 learners enrolled",,4.4,120 ratings
+482,Free course,Analyze Traffic Safety Data with Python Case Study,,,Beginner Friendly,1,"1,828 learners enrolled",,4.4,59 ratings
+483,Free course,How to Choose a Linear Regression Model,,,Intermediate,1,,,,
+484,Free course,Statistics: Variance and Standard Deviation,,,Beginner Friendly,1,,,,
+485,Free course,Introduction to Hypothesis Testing,,,Beginner Friendly,2,,,,
+486,Free course,Learn How to Use AI for Data Analysis,,,Intermediate,1,"2,809 learners enrolled",,,
+487,Free course,Hypothesis Testing: Significance Thresholds,,,Beginner Friendly,1,,,,
+488,Free course,"Statistics: Quartiles, Quantiles, and IQR",,,Beginner Friendly,1,,,,
+489,Free course,Statistics: Histograms,,,Beginner Friendly,1,,,,
+490,Free course,Statistics: Boxplots,,,Beginner Friendly,1,,,,
+491,Free course,Hypothesis Testing: Associations,,,Beginner Friendly,1,,,,
+492,Free course,VBA: Getting Started with VBA in Excel,,,Beginner Friendly,2,,,,
+493,Free course,VBA: Building User Interfaces with Forms in VBA & Excel,,,Intermediate,1,,,,
+494,Free course,"VBA: Leveraging VBA to Work with Charts, Stocks, & MS Access",,,Advanced,2,,,,
+495,Skill path,Design Databases With PostgreSQL,Includes 5 Courses,With Certificate,Beginner Friendly,13,"22,060 learners enrolled",,,
+496,Skill path,Software Engineering for Data Scientists,Includes 7 Courses,With Certificate,Intermediate,22,"4,616 learners enrolled",,,
+497,Course,Learn Python 3,,With Certificate,Beginner Friendly,23,"2,517,022 learners enrolled",,4.6,"9,378 ratings"
+498,Free course,Learn SQL,,,Beginner Friendly,5,"922,044 learners enrolled",,4.6,"17,535 ratings"
+499,Free course,Introduction to Big Data with PySpark,,,Beginner Friendly,4,"5,612 learners enrolled",,4.4,202 ratings
+500,Career path,Data Scientist: Machine Learning Specialist,Includes 27 Courses,With Professional Certification,Beginner Friendly,90,"174,796 learners enrolled","$125,000",,
+501,Career path,Data Scientist: Analytics Specialist,Includes 22 Courses,With Professional Certification,Beginner Friendly,70,"58,805 learners enrolled","$125,000",,
+502,Career path,Business Intelligence Data Analyst,Includes 18 Courses,With Certificate,Beginner Friendly,50,"26,567 learners enrolled","$87,000",,
+503,Career path,Data Scientist: Natural Language Processing Specialist,Includes 31 Courses,With Certificate,Beginner Friendly,100,"12,617 learners enrolled","$125,000",,
+504,Career path,Machine Learning/AI Engineer,Includes 7 Courses,With Certificate,Intermediate,50,"24,224 learners enrolled","$127,000",,
+505,Career path,Data Scientist: Inference Specialist,Includes 24 Courses,With Certificate,Beginner Friendly,80,"7,073 learners enrolled","$125,000",,
+506,Skill path,Analyze Data with SQL,Includes 9 Courses,With Certificate,Beginner Friendly,17,"112,957 learners enrolled",,,
+507,Skill path,Analyze Financial Data with Python,Includes 6 Courses,With Certificate,Beginner Friendly,25,"36,395 learners enrolled",,,
+508,Skill path,Analyze Data with R,Includes 7 Courses,With Certificate,Beginner Friendly,21,"16,151 learners enrolled",,,
+509,Skill path,Design Databases With PostgreSQL,Includes 5 Courses,With Certificate,Beginner Friendly,13,"22,060 learners enrolled",,,
+510,Skill path,Build Deep Learning Models with TensorFlow,Includes 7 Courses,With Certificate,Intermediate,10,"15,286 learners enrolled",,,
+511,Skill path,Master Statistics with Python,Includes 9 Courses,With Certificate,Intermediate,26,"11,142 learners enrolled",,,
+512,Skill path,Apply Natural Language Processing with Python,Includes 8 Courses,With Certificate,Intermediate,10,"7,700 learners enrolled",,,
+513,Skill path,Data Analyst Interview Preparation,Includes 7 Courses,With Certificate,Intermediate,3,"7,412 learners enrolled",,,
+514,Skill path,Data Scientist Interview Preparation,Includes 8 Courses,With Certificate,Intermediate,3,"5,845 learners enrolled",,,
+515,Skill path,Fundamental Math for Data Science,Includes 8 Courses,With Certificate,Beginner Friendly,12,"17,850 learners enrolled",,,
+516,Skill path,Feature Engineering,Includes 4 Courses,With Certificate,Intermediate,6,"2,812 learners enrolled",,,
+517,Skill path,Build Chatbots with Python,Includes 6 Courses,With Certificate,Beginner Friendly,28,"50,162 learners enrolled",,,
+518,Skill path,Software Engineering for Data Scientists,Includes 7 Courses,With Certificate,Intermediate,22,"4,616 learners enrolled",,,
+519,Skill path,Intermediate Machine Learning,Includes 5 Courses,With Certificate,Intermediate,8,"1,877 learners enrolled",,,
+520,Skill path,Learn Python for Data Science,Includes 5 Courses,With Certificate,Beginner Friendly,16,"4,733 learners enrolled",,,
+521,Skill path,Analyze Data with Python,Includes 8 Courses,With Certificate,Intermediate,13,"4,364 learners enrolled",,,
+522,Skill path,Data and Programming Foundations for AI,Includes 9 Courses,With Certificate,Beginner Friendly,38,"23,909 learners enrolled",,,
+523,Skill path,Data Science Foundations,Includes 15 Courses,With Certificate,Beginner Friendly,54,"27,706 learners enrolled",,,
+524,Skill path,Visualize Data with Python,Includes 6 Courses,With Certificate,Beginner Friendly,7,"2,851 learners enrolled",,,
+525,Skill path,Build a Machine Learning Model,Includes 10 Courses,With Certificate,Beginner Friendly,23,"2,911 learners enrolled",,,
+526,Course,Learn Python 3,,With Certificate,Beginner Friendly,23,"2,517,022 learners enrolled",,4.6,"9,378 ratings"
+527,Free course,Learn SQL,,,Beginner Friendly,5,"922,044 learners enrolled",,4.6,"17,535 ratings"
+528,Free course,Learn Python 2,,,Beginner Friendly,17,"1,008,578 learners enrolled",,4.3,"6,565 ratings"
+529,Free course,Learn R,,,Beginner Friendly,14,"258,964 learners enrolled",,4.5,"1,545 ratings"
+530,Free course,Getting Started with Python for Data Science,,,Beginner Friendly,7,"60,281 learners enrolled",,4.6,858 ratings
+531,Course,Learn Intermediate Python 3,,With Certificate,Intermediate,20,"61,043 learners enrolled",,4.2,"1,038 ratings"
+532,Free course,Intro to SQL,,,Beginner Friendly,2,"20,110 learners enrolled",,4.7,"1,047 ratings"
+533,Course,Learn Data Analysis with Pandas,,With Certificate,Intermediate,6,"29,334 learners enrolled",,4.6,423 ratings
+534,Free course,Machine Learning: Introduction with Regression,,,Beginner Friendly,3,"8,876 learners enrolled",,4.6,178 ratings
+535,Free course,Learn SQL: Multiple Tables,,,Beginner Friendly,1,"7,688 learners enrolled",,4.6,273 ratings
+536,Free course,Learn SQL: Aggregate Functions,,,Beginner Friendly,1,"6,374 learners enrolled",,4.5,255 ratings
+537,Course,How to Transform Tables with SQL,,With Certificate,Intermediate,2,"16,120 learners enrolled",,3.9,355 ratings
+538,Free course,Learn MongoDB,,,Beginner Friendly,5,"13,143 learners enrolled",,4.6,361 ratings
+539,Free course,Intro to Data Visualization with Python,,,Beginner Friendly,3,"4,081 learners enrolled",,4.4,80 ratings
+540,Free course,Intro to PyTorch and Neural Networks,,,Intermediate,3,"3,635 learners enrolled",,4.6,68 ratings
+541,Course,Learn Web Scraping with Beautiful Soup,,With Certificate,Intermediate,2,"22,097 learners enrolled",,4.2,252 ratings
+542,Free course,Introduction to Big Data with PySpark,,,Beginner Friendly,4,"5,612 learners enrolled",,4.4,202 ratings
+543,Free course,Learn the Basics of Regular Expressions,,,Beginner Friendly,1,"7,059 learners enrolled",,4.7,514 ratings
+544,Free course,Learn How to Use AI for SQL,,,Beginner Friendly,1,,,,
+545,Free course,Intro to Language Models in Python,,,Intermediate,4,"3,546 learners enrolled",,,
+546,Course,Learn Statistics with Python,,With Certificate,Beginner Friendly,4,"14,518 learners enrolled",,,
+547,Free course,Python for Data Science: Working with Data,,,Beginner Friendly,9,"8,180 learners enrolled",,4.6,106 ratings
+548,Course,How to Analyze Business Metrics with SQL,,With Certificate,Intermediate,1,"13,394 learners enrolled",,4,328 ratings
+549,Free course,Machine Learning: Logistic Regression,,,Beginner Friendly,3,"1,899 learners enrolled",,4.1,227 ratings
+550,Course,Learn Advanced Python 3,,With Certificate,Advanced,6,"13,992 learners enrolled",,4.5,248 ratings
+551,Free course,R for Programmers,,,Beginner Friendly,1,"4,311 learners enrolled",,4.1,138 ratings
+552,Course,BI Dashboards with Power BI,,With Certificate,Beginner Friendly,1,"13,453 learners enrolled",,4.1,802 ratings
+553,Course,Getting Started with Natural Language Processing,,With Certificate,Beginner Friendly,1,"24,414 learners enrolled",,4.3,205 ratings
+554,Course,How to Clean Data with Python,,With Certificate,Intermediate,3,"19,599 learners enrolled",,4.4,208 ratings
+555,Free course,Linear Algebra,,,Beginner Friendly,1,"19,274 learners enrolled",,4.4,196 ratings
+556,Course,Learn Intermediate SQL for Marketers and Product Managers,,With Certificate,Intermediate,4,"8,890 learners enrolled",,4.4,99 ratings
+557,Free course,Learn Tableau for Data Visualization,,,Beginner Friendly,1,"8,977 learners enrolled",,4.4,309 ratings
+558,Free course,Machine Learning: Perceptrons,,,Beginner Friendly,1,"3,137 learners enrolled",,4.4,88 ratings
+559,Free course,Intro to Deep Learning with TensorFlow,,,Intermediate,4,"3,784 learners enrolled",,4.6,70 ratings
+560,Free course,Intro to AI Transformers,,,Intermediate,2,"2,390 learners enrolled",,,
+561,Free course,Machine Learning: Random Forests & Decision Trees,,,Beginner Friendly,3,"2,479 learners enrolled",,,
+562,Course,Learn Statistics with NumPy,,With Certificate,Intermediate,4,"9,806 learners enrolled",,4.3,96 ratings
+563,Free course,Machine Learning: K-Nearest Neighbors,,,Beginner Friendly,3,"1,375 learners enrolled",,,
+564,Free course,Probability,,,Beginner Friendly,4,"28,553 learners enrolled",,4.3,96 ratings
+565,Free course,Linear Regression in Python,,,Intermediate,6,"6,068 learners enrolled",,,
+566,Free course,Getting Started Off-Platform for Data Science,,,Beginner Friendly,1,"19,488 learners enrolled",,4.3,244 ratings
+567,Free course,Learn Statistics with R,,,Intermediate,4,"7,735 learners enrolled",,4.4,55 ratings
+568,Course,PyTorch for Classification,,With Certificate,Beginner Friendly,3,"1,780 learners enrolled",,,
+569,Free course,Analyze Taylor Swift Lyrics with Python Case Study,,,Beginner Friendly,1,"5,458 learners enrolled",,4.1,75 ratings
+570,Free course,Learn to Program Alexa,,,Beginner Friendly,2,"23,046 learners enrolled",,,
+571,Free course,Machine Learning: Artificial Intelligence Decision Making with Minimax,,,Advanced,2,"3,889 learners enrolled",,4.5,50 ratings
+572,Course,Exploratory Data Analysis in Python,,With Certificate,Beginner Friendly,5,"5,914 learners enrolled",,,
+573,Free course,Data Visualization with Python: Seaborn,,,Beginner Friendly,2,"1,066 learners enrolled",,,
+574,Free course,Principles of Data Literacy,,,Beginner Friendly,3,"4,810 learners enrolled",,4.4,220 ratings
+575,Course,Finetuning Transformer Models,,With Certificate,Intermediate,2,"1,144 learners enrolled",,,
+576,Course,Learn Linear Regression with R,,With Certificate,Intermediate,3,"2,455 learners enrolled",,,
+577,Free course,Data Visualization with Python: Visual Arguments,,,Beginner Friendly,1,"1,014 learners enrolled",,,
+578,Free course,Learn dplyr,,,Intermediate,8,"2,897 learners enrolled",,,
+579,Free course,Machine Learning: Clustering with K-Means,,,Beginner Friendly,2,"1,189 learners enrolled",,,
+580,Course,Learn D3,,With Certificate,Intermediate,1,"7,810 learners enrolled",,3.9,57 ratings
+581,Free course,Differential Calculus,,,Beginner Friendly,1,"12,464 learners enrolled",,4.3,71 ratings
+582,Free course,Build a Machine Learning Pipeline,,,Intermediate,1,"2,811 learners enrolled",,,
+583,Free course,Analyze NFL Stats with Python Case Study,,,Beginner Friendly,1,"5,469 learners enrolled",,4.3,91 ratings
+584,Course,BI Dashboards with Tableau,,With Certificate,Beginner Friendly,1,"6,267 learners enrolled",,4.3,198 ratings
+585,Course,Deep Learning with TensorFlow: Image Classification,,,Intermediate,2,"1,091 learners enrolled",,,
+586,Course,Learn ggplot2,,With Certificate,Intermediate,4,"3,120 learners enrolled",,3.9,50 ratings
+587,Free course,"Statistics: Mean, Median, Mode",,,Beginner Friendly,1,,,,
+588,Free course,Simple Linear Regression,,,Beginner Friendly,2,,,,
+589,Course,Hypothesis Testing with Python,,With Certificate,Intermediate,6,"2,031 learners enrolled",,,
+590,Free course,Multiple Linear Regression,,,Beginner Friendly,3,,,,
+591,Free course,Analyze Traffic Safety Data with Python Case Study,,,Beginner Friendly,1,"1,828 learners enrolled",,4.4,59 ratings
+592,Course,Language Parsing,,With Certificate,Intermediate,2,"1,182 learners enrolled",,,
+593,Course,Language Models in Python: Generative Text,,With Certificate,Intermediate,1,"3,607 learners enrolled",,,
+594,Free course,How to Choose a Linear Regression Model,,,Intermediate,1,,,,
+595,Free course,Statistics: Variance and Standard Deviation,,,Beginner Friendly,1,,,,
+596,Free course,Introduction to Hypothesis Testing,,,Beginner Friendly,2,,,,
+597,Free course,Using Storytelling to Prove a Case With Data,,,Beginner Friendly,1,"2,326 learners enrolled",,,
+598,Free course,Learn the Basics of Causal Inference with R,,,Intermediate,5,"1,652 learners enrolled",,,
+599,Course,Text Preprocessing,,With Certificate,Intermediate,2,"1,907 learners enrolled",,,
+600,Free course,Learn Recommender Systems,,,Intermediate,1,"1,974 learners enrolled",,4.2,97 ratings
+601,Free course,Hypothesis Testing: Significance Thresholds,,,Beginner Friendly,1,,,,
+602,Free course,Ensemble Methods in Machine Learning,,,Intermediate,2,,,,
+603,Course,Deep Learning with TensorFlow: Classification,,,Intermediate,2,,,,
+604,Course,Intro to Regularization with Python,,,Intermediate,2,,,,
+605,Free course,Statistics: Histograms,,,Beginner Friendly,1,,,,
+606,Free course,"Statistics: Quartiles, Quantiles, and IQR",,,Beginner Friendly,1,,,,
+607,Free course,Statistics: Boxplots,,,Beginner Friendly,1,,,,
+608,Free course,Hypothesis Testing: Associations,,,Beginner Friendly,1,,,,
+609,Free course,Hypothesis Testing: Experimental Design,,,Beginner Friendly,1,,,,
+610,Free course,Regression Discontinuity Design and Instrumental Variables,,,Advanced,2,,,,
+611,Course,Intro to Hyperparameter Tuning with Python,,,Intermediate,1,,,,
+612,Free course,Learn Conversational Design with Alexa,,,Intermediate,3,"2,653 learners enrolled",,,
+613,Free course,Difference in Differences for Causal Inference,,,Advanced,1,,,,
+614,Free course,Matching and Weighting Methods for Causal Inference,,,Advanced,2,,,,
+615,Free course,Potential Outcomes Framework for Causal Inference,,,Advanced,1,,,,
+616,Career path,Data Scientist: Analytics Specialist,Includes 22 Courses,With Professional Certification,Beginner Friendly,70,"58,805 learners enrolled","$125,000",,
+617,Career path,Business Intelligence Data Analyst,Includes 18 Courses,With Certificate,Beginner Friendly,50,"26,567 learners enrolled","$87,000",,
+618,Skill path,Analyze Data with R,Includes 7 Courses,With Certificate,Beginner Friendly,21,"16,151 learners enrolled",,,
+619,Skill path,Data Analyst Interview Preparation,Includes 7 Courses,With Certificate,Intermediate,3,"7,412 learners enrolled",,,
+620,Skill path,Data Scientist Interview Preparation,Includes 8 Courses,With Certificate,Intermediate,3,"5,845 learners enrolled",,,
+621,Skill path,Analyze Data with Python,Includes 8 Courses,With Certificate,Intermediate,13,"4,364 learners enrolled",,,
+622,Skill path,Data Science Foundations,Includes 15 Courses,With Certificate,Beginner Friendly,54,"27,706 learners enrolled",,,
+623,Skill path,Visualize Data with Python,Includes 6 Courses,With Certificate,Beginner Friendly,7,"2,851 learners enrolled",,,
+624,Free course,Learn R,,,Beginner Friendly,14,"258,964 learners enrolled",,4.5,"1,545 ratings"
+625,Free course,Intro to Data Visualization with Python,,,Beginner Friendly,3,"4,081 learners enrolled",,4.4,80 ratings
+626,Free course,Learn Microsoft Excel for Data Analysis,,,Beginner Friendly,2,"13,414 learners enrolled",,4.3,422 ratings
+627,Course,BI Dashboards with Power BI,,With Certificate,Beginner Friendly,1,"13,453 learners enrolled",,4.1,802 ratings
+628,Free course,Learn Tableau for Data Visualization,,,Beginner Friendly,1,"8,977 learners enrolled",,4.4,309 ratings
+629,Course,Analyze Data with Microsoft Excel,,With Certificate,Beginner Friendly,1,"7,700 learners enrolled",,4.1,420 ratings
+630,Course,Handling Missing Data,,With Certificate,Beginner Friendly,1,"3,106 learners enrolled",,4.3,165 ratings
+631,Free course,Getting Started Off-Platform for Data Science,,,Beginner Friendly,1,"19,488 learners enrolled",,4.3,244 ratings
+632,Free course,Data Visualization with Python: Seaborn,,,Beginner Friendly,2,"1,066 learners enrolled",,,
+633,Free course,Data Visualization with Python: Visual Arguments,,,Beginner Friendly,1,"1,014 learners enrolled",,,
+634,Course,Learn D3,,With Certificate,Intermediate,1,"7,810 learners enrolled",,3.9,57 ratings
+635,Course,BI Dashboards with Tableau,,With Certificate,Beginner Friendly,1,"6,267 learners enrolled",,4.3,198 ratings
+636,Course,Learn ggplot2,,With Certificate,Intermediate,4,"3,120 learners enrolled",,3.9,50 ratings
+637,Skill path,Software Engineering for Data Scientists,Includes 7 Courses,With Certificate,Intermediate,22,"4,616 learners enrolled",,,
+638,Course,Learn the Command Line,,With Certificate,Beginner Friendly,4,"190,274 learners enrolled",,4.6,"6,104 ratings"
+639,Course,Learn Git & GitHub,,With Certificate,Beginner Friendly,4,"126,342 learners enrolled",,4.5,"1,653 ratings"
+640,Free course,Introduction to Blockchain and Crypto,,,Beginner Friendly,1,"10,596 learners enrolled",,4.3,264 ratings
+641,Free course,Introduction to Open Source,,,Beginner Friendly,1,"3,321 learners enrolled",,4.4,148 ratings
+642,Course,Learn Python 3,,With Certificate,Beginner Friendly,23,"2,517,022 learners enrolled",,4.6,"9,378 ratings"
+643,Free course,Learn Go,,,Beginner Friendly,4,"138,954 learners enrolled",,4.6,"1,439 ratings"
+644,Course,Learn the Command Line,,With Certificate,Beginner Friendly,4,"190,274 learners enrolled",,4.6,"6,104 ratings"
+645,Course,Learn Bash Scripting,,With Certificate,Intermediate,1,"40,982 learners enrolled",,4.2,"1,067 ratings"
+646,Free course,Introduction to DevOps,,,Beginner Friendly,2,"19,425 learners enrolled",,4.5,446 ratings
+647,Free course,Learn MongoDB,,,Beginner Friendly,5,"13,143 learners enrolled",,4.6,361 ratings
+648,Free course,"Learn Go: Loops, Arrays, Maps, and Structs",,,Beginner Friendly,4,"6,876 learners enrolled",,4.6,278 ratings
+649,Free course,Learn Go: Fundamentals,,,Beginner Friendly,2,"1,210 learners enrolled",,4.7,62 ratings
+650,Free course,Learn Go: Maps and Structs,,,Beginner Friendly,2,,,,
+651,Free course,Learn Go: Functions,,,Beginner Friendly,1,,,,
+652,Free course,Learn Go: Loops and Arrays,,,Beginner Friendly,2,,,,
+653,Free course,Learn Go: Conditionals,,,Beginner Friendly,1,,,,
+654,Skill path,Create Video Games with Phaser.js,Includes 8 Courses,With Certificate,Beginner Friendly,27,"64,379 learners enrolled",,,
+655,Free course,Introduction to Game Development,,,Beginner Friendly,1,"92,932 learners enrolled",,4.3,"3,746 ratings"
+656,Free course,Learn Game Development with Phaser.js,,,Intermediate,7,"60,860 learners enrolled",,4.4,162 ratings
+657,Free course,Learn A-Frame (VR),,,Intermediate,2,"19,286 learners enrolled",,4.4,133 ratings
+658,Free course,Learn Phaser.js: Fundamentals,,,Intermediate,2,,,,
+659,Free course,Learn Phaser.js: Animations and Visuals,,,Intermediate,2,,,,
+660,Free course,Learn Phaser.js: Physics,,,Intermediate,2,,,,
+661,Free course,Learn Go,,,Beginner Friendly,4,"138,954 learners enrolled",,4.6,"1,439 ratings"
+662,Free course,"Learn Go: Loops, Arrays, Maps, and Structs",,,Beginner Friendly,4,"6,876 learners enrolled",,4.6,278 ratings
+663,Free course,Learn Go: Fundamentals,,,Beginner Friendly,2,"1,210 learners enrolled",,4.7,62 ratings
+664,Free course,Learn Go: Maps and Structs,,,Beginner Friendly,2,,,,
+665,Free course,Learn Go: Functions,,,Beginner Friendly,1,,,,
+666,Free course,Learn Go: Loops and Arrays,,,Beginner Friendly,2,,,,
+667,Free course,Learn Go: Conditionals,,,Beginner Friendly,1,,,,
+668,Career path,Front-End Engineer,Includes 34 Courses,With Professional Certification,Beginner Friendly,115,"142,271 learners enrolled","$120,000",,
+669,Skill path,"Build a Website with HTML, CSS, and GitHub Pages",Includes 9 Courses,With Certificate,Beginner Friendly,14,"138,562 learners enrolled",,,
+670,Free course,Learn HTML,,,Beginner Friendly,7,"2,032,797 learners enrolled",,4.6,"40,581 ratings"
+671,Free course,Learn CSS,,,Beginner Friendly,6,"395,309 learners enrolled",,4.5,"11,864 ratings"
+672,Free course,Learn Intermediate CSS,,,Intermediate,10,"73,025 learners enrolled",,4.4,"1,015 ratings"
+673,Free course,Learn HTML: Fundamentals,,,Beginner Friendly,3,"17,419 learners enrolled",,4.6,"1,300 ratings"
+674,Course,Learn Bootstrap,,With Certificate,Intermediate,3,"44,309 learners enrolled",,4.6,940 ratings
+675,Free course,How to Make a Website with NameCheap,,,Beginner Friendly,4,"153,809 learners enrolled",,4.5,"1,194 ratings"
+676,Free course,Learn CSS: Introduction ,,,Beginner Friendly,2,"14,165 learners enrolled",,4.6,"1,035 ratings"
+677,Free course,Learn CSS: Flexbox and Grid,,,Beginner Friendly,4,"16,239 learners enrolled",,4.6,457 ratings
+678,Free course,Learn CSS: Transitions and Animations,,,Beginner Friendly,1,"7,388 learners enrolled",,4.5,421 ratings
+679,Free course,Learn HTML: Forms,,,Beginner Friendly,2,"8,099 learners enrolled",,4.5,360 ratings
+680,Course,Learn CSS: Responsive Design,,With Certificate,Intermediate,2,"8,198 learners enrolled",,4.6,450 ratings
+681,Free course,Learn CSS: Box Model and Layout,,,Beginner Friendly,2,"8,360 learners enrolled",,4.5,366 ratings
+682,Free course,Learn HTML: Tables,,,Beginner Friendly,1,"7,130 learners enrolled",,4.5,408 ratings
+683,Course,Learn Sass,,With Certificate,Intermediate,3,"22,712 learners enrolled",,4.1,196 ratings
+684,Free course,Learn HTML: Semantic HTML,,,Beginner Friendly,1,"6,380 learners enrolled",,4.6,368 ratings
+685,Course,How to Deploy a Website,,With Certificate,Beginner Friendly,1,"29,865 learners enrolled",,4.4,215 ratings
+686,Free course,Learn CSS: Colors,,,Beginner Friendly,1,"5,129 learners enrolled",,4.6,303 ratings
+687,Free course,Learn CSS: Accessibility,,,Beginner Friendly,1,"2,958 learners enrolled",,4.5,129 ratings
+688,Free course,Learn CSS: Typography and Fonts,,,Beginner Friendly,1,"4,428 learners enrolled",,4.6,205 ratings
+689,Free course,Learn A-Frame (VR),,,Intermediate,2,"19,286 learners enrolled",,4.4,133 ratings
+690,Free course,Learn CSS: Variables and Functions,,,Beginner Friendly,2,"3,156 learners enrolled",,4.6,100 ratings
+691,Course,Learn Navigation Design,,With Certificate,Intermediate,2,"10,470 learners enrolled",,4.1,77 ratings
+692,Free course,Learn Sass: Fundamentals,,,Intermediate,1,"1,885 learners enrolled",,4.3,89 ratings
+693,Course,Learn Color Design,,With Certificate,Intermediate,2,"15,480 learners enrolled",,4.5,157 ratings
+694,Free course,Learn CSS: Browser Compatibility,,,Beginner Friendly,1,"2,494 learners enrolled",,4.3,118 ratings
+695,Free course,Learn Sass: Mixins and Parent Selector,,,Intermediate,1,,,,
+696,Free course,Learn Sass: Best Practices,,,Intermediate,1,"1,350 learners enrolled",,,
+697,Free course,Learn Sass: Functions and Operations,,,Intermediate,1,,,,
+698,Course,Learn CSS-in-JS,,With Certificate,Intermediate,1,"4,132 learners enrolled",,4,107 ratings
+699,Skill path,Data Analyst Interview Preparation,Includes 7 Courses,With Certificate,Intermediate,3,"7,412 learners enrolled",,,
+700,Skill path,Pass the Technical Interview with Java,Includes 8 Courses,With Certificate,Intermediate,19,"15,506 learners enrolled",,,
+701,Skill path,Pass the Technical Interview with JavaScript,Includes 8 Courses,With Certificate,Intermediate,13,"23,176 learners enrolled",,,
+702,Skill path,Pass the Technical Interview with Python,Includes 8 Courses,With Certificate,Intermediate,25,"20,801 learners enrolled",,,
+703,Skill path,Data Scientist Interview Preparation,Includes 8 Courses,With Certificate,Intermediate,3,"5,845 learners enrolled",,,
+704,Skill path,Pass the Technical Interview with Swift,Includes 7 Courses,With Certificate,Advanced,10,,,,
+705,Skill path,Cybersecurity Analyst Interview Prep,Includes 8 Courses,With Certificate,Intermediate,2,"2,184 learners enrolled",,,
+706,Course,Technical Interview Practice with Python,,With Certificate,Intermediate,6,"27,036 learners enrolled",,,
+707,Course,Technical Interview Practice with JavaScript,,With Certificate,Intermediate,1,"5,882 learners enrolled",,,
+708,Course,Technical Interview Practice with Java,,With Certificate,Intermediate,1,"5,647 learners enrolled",,,
+709,Course,How to Implement Search Algorithms with Python,,With Certificate,Intermediate,2,"4,564 learners enrolled",,,
+710,Course,Learn Sorting Algorithms with Python,,With Certificate,Intermediate,3,"6,577 learners enrolled",,,
+711,Skill path,Scan Systems with Nmap,Includes 5 Courses,With Certificate,Beginner Friendly,4,"5,356 learners enrolled",,,
+712,Skill path,Fundamentals of Cybersecurity,Includes 5 Courses,With Certificate,Beginner Friendly,3,"15,494 learners enrolled",,,
+713,Course,Learn Python 3,,With Certificate,Beginner Friendly,23,"2,517,022 learners enrolled",,4.6,"9,378 ratings"
+714,Free course,Learn SQL,,,Beginner Friendly,5,"922,044 learners enrolled",,4.6,"17,535 ratings"
+715,Free course,Introduction to Cybersecurity,,,Beginner Friendly,3,"145,045 learners enrolled",,4.5,"2,950 ratings"
+716,Course,Learn the Command Line,,With Certificate,Beginner Friendly,4,"190,274 learners enrolled",,4.6,"6,104 ratings"
+717,Free course,Introduction to IT,,,Beginner Friendly,3,"31,399 learners enrolled",,4.4,783 ratings
+718,Course,Introduction to Linux,,With Certificate,Intermediate,4,"18,771 learners enrolled",,4.3,331 ratings
+719,Free course,Introduction to Linux: Bash Scripting,,,Intermediate,3,"4,802 learners enrolled",,4.5,81 ratings
+720,Free course,Fundamentals of Operating Systems,,,Beginner Friendly,2,"8,425 learners enrolled",,4.3,168 ratings
+721,Free course,Introduction to Linux: Users and Permissions,,,Intermediate,1,"1,157 learners enrolled",,4.6,73 ratings
+722,Free course,Introduction to Linux: Installation,,,Intermediate,1,"1,173 learners enrolled",,4.4,69 ratings
+723,Skill path,Build Basic Android Apps with Java,Includes 6 Courses,With Certificate,Beginner Friendly,16,"36,027 learners enrolled",,,
+724,Skill path,Pass the Technical Interview with Java,Includes 8 Courses,With Certificate,Intermediate,19,"15,506 learners enrolled",,,
+725,Skill path,Study for the AP Computer Science A Exam (Java),Includes 8 Courses,With Certificate,Beginner Friendly,19,"7,624 learners enrolled",,,
+726,Skill path,Create REST APIs with Spring and Java,Includes 9 Courses,With Certificate,Beginner Friendly,20,"16,569 learners enrolled",,,
+727,Free course,Learn Java,,,Beginner Friendly,16,"1,125,540 learners enrolled",,4.4,"8,613 ratings"
+728,Free course,Intro to Java,,,Beginner Friendly,6,"34,355 learners enrolled",,4.6,"1,272 ratings"
+729,Free course,Learn Intermediate Java,,,Intermediate,10,"34,440 learners enrolled",,4.3,447 ratings
+730,Free course,Learn Java: Object-Oriented Programming,,,Beginner Friendly,3,"22,047 learners enrolled",,4.5,404 ratings
+731,Course,Learn Spring,,With Certificate,Intermediate,5,"19,954 learners enrolled",,4.2,206 ratings
+732,Free course,Java for Programmers,,,Intermediate,1,"25,328 learners enrolled",,4.4,182 ratings
+733,Course,Learn the Basics of Android,,With Certificate,Intermediate,1,"9,121 learners enrolled",,4.1,239 ratings
+734,Free course,Learn Java: Loops and Arrays,,,Beginner Friendly,5,"7,795 learners enrolled",,4.6,75 ratings
+735,Free course,"Learn Java: Classes, Methods, Inheritance, and Polymorphism",,,Beginner Friendly,4,"7,672 learners enrolled",,4.4,156 ratings
+736,Free course,Learn Spring: Fundamentals and Controllers,,,Intermediate,3,"2,703 learners enrolled",,4.4,108 ratings
+737,Free course,Java: Algorithms,,,Beginner Friendly,3,"14,587 learners enrolled",,4.4,112 ratings
+738,Free course,Learn Spring: Building an App,,,Intermediate,2,"2,956 learners enrolled",,4.5,88 ratings
+739,Free course,Learn Intermediate Java: JUnit Testing,,,Intermediate,1,"1,752 learners enrolled",,4.6,87 ratings
+740,Free course,Learn Intermediate Java: Generics and Collections,,,Intermediate,3,"1,354 learners enrolled",,,
+741,Course,Learn Advanced Java,,With Certificate,Advanced,2,"7,136 learners enrolled",,4.2,76 ratings
+742,Free course,Learn Java: Debugging,,,Beginner Friendly,1,"1,464 learners enrolled",,4.4,52 ratings
+743,Free course,Learn Java: Inheritance and Polymorphism,,,Beginner Friendly,2,"7,166 learners enrolled",,4.6,114 ratings
+744,Free course,Learn Intermediate Java: Threading,,,Intermediate,1,"1,047 learners enrolled",,,
+745,Free course,Learn Java: Conditionals and Operators,,,Beginner Friendly,1,"4,719 learners enrolled",,4.6,91 ratings
+746,Free course,Learn Intermediate Java: Input and Output,,,Intermediate,1,,,,
+747,Course,Technical Interview Practice with Java,,With Certificate,Intermediate,1,"5,647 learners enrolled",,,
+748,Free course,Learn Intermediate Java: Serialization,,,Intermediate,2,,,,
+749,Free course,Learn Intermediate Java: Regular Expressions,,,Intermediate,1,,,,
+750,Free course,Learn Intermediate Java: Nested Classes,,,Intermediate,1,,,,
+751,Career path,Full-Stack Engineer,Includes 51 Courses,With Professional Certification,Beginner Friendly,150,"269,434 learners enrolled","$120,000",,
+752,Career path,Front-End Engineer,Includes 34 Courses,With Professional Certification,Beginner Friendly,115,"142,271 learners enrolled","$120,000",,
+753,Career path,Back-End Engineer,Includes 41 Courses,With Professional Certification,Beginner Friendly,105,"52,827 learners enrolled","$120,000",,
+754,Skill path,Create a Back-End App with JavaScript,Includes 8 Courses,With Certificate,Beginner Friendly,30,"40,394 learners enrolled",,,
+755,Skill path,Create a Front-End App with React,Includes 9 Courses,With Certificate,Intermediate,37,"49,013 learners enrolled",,,
+756,Skill path,Create Video Games with Phaser.js,Includes 8 Courses,With Certificate,Beginner Friendly,27,"64,379 learners enrolled",,,
+757,Skill path,Pass the Technical Interview with JavaScript,Includes 8 Courses,With Certificate,Intermediate,13,"23,176 learners enrolled",,,
+758,Skill path,Create an Advanced Web App with React and Redux,Includes 6 Courses,With Certificate,Intermediate,22,"11,271 learners enrolled",,,
+759,Free course,Learn JavaScript,,,Beginner Friendly,15,"2,132,265 learners enrolled",,4.5,"27,114 ratings"
+760,Free course,Learn React,,,Intermediate,13,"357,588 learners enrolled",,4.4,"2,539 ratings"
+761,Free course,Learn TypeScript,,,Intermediate,10,"116,458 learners enrolled",,4.6,"1,762 ratings"
+762,Free course,Learn Intermediate JavaScript,,,Intermediate,10,"91,932 learners enrolled",,4.4,"1,964 ratings"
+763,Free course,Learn React Native,,,Intermediate,6,"53,915 learners enrolled",,4.4,842 ratings
+764,Course,Building Interactive JavaScript Websites,,With Certificate,Intermediate,6,"66,523 learners enrolled",,4.5,718 ratings
+765,Free course,Learn React: Introduction,,,Beginner Friendly,6,"23,888 learners enrolled",,4.5,903 ratings
+766,Free course,Learn Node.js,,,Intermediate,5,"72,779 learners enrolled",,4.3,"1,035 ratings"
+767,Free course,Learn Game Development with Phaser.js,,,Intermediate,7,"60,860 learners enrolled",,4.4,162 ratings
+768,Free course,Learn JavaScript: Fundamentals,,,Beginner Friendly,4,"14,522 learners enrolled",,4.7,806 ratings
+769,Course,Learn Vue.js,,With Certificate,Beginner Friendly,4,"44,968 learners enrolled",,4.3,363 ratings
+770,Free course,Learn AngularJS 1.X,,,Intermediate,6,"28,253 learners enrolled",,4.2,293 ratings
+771,Free course,Learn TypeScript: Fundamentals,,,Beginner Friendly,1,"8,038 learners enrolled",,4.6,437 ratings
+772,Course,Learn Express,,With Certificate,Intermediate,5,"22,472 learners enrolled",,4.3,183 ratings
+773,Course,Learn jQuery,,With Certificate,Beginner Friendly,4,"27,568 learners enrolled",,4.6,318 ratings
+774,Free course,Learn JavaScript: Asynchronous Programming ,,,Beginner Friendly,3,"23,264 learners enrolled",,4.5,347 ratings
+775,Course,OpenAI API Coding with JavaScript,,With Certificate,Intermediate,1,,,,
+776,Free course,Learn Redux,,,Intermediate,7,"21,310 learners enrolled",,4.3,206 ratings
+777,Free course,Learn Node.js: Fundamentals,,,Beginner Friendly,3,"3,330 learners enrolled",,4.3,53 ratings
+778,Course,Learn Advanced React,,With Certificate,Advanced,5,"8,346 learners enrolled",,4.5,123 ratings
+779,Free course,Learn TypeScript: Functions,,,Beginner Friendly,1,"2,960 learners enrolled",,4.6,98 ratings
+780,Free course, Intro to Next.js,,,Intermediate,3,,,,
+781,Free course,Learn React: Hooks,,,Beginner Friendly,4,"3,776 learners enrolled",,4.4,157 ratings
+782,Course,How to Deploy a Website,,With Certificate,Beginner Friendly,1,"29,865 learners enrolled",,4.4,215 ratings
+783,Free course,Learn React Testing,,,Intermediate,4,"16,269 learners enrolled",,4.4,195 ratings
+784,Free course,Learn Node-SQLite,,,Intermediate,2,"6,536 learners enrolled",,4.4,76 ratings
+785,Course,Learn Next.js,,With Certificate,Advanced,6,,,,
+786,Free course,Learn JavaScript: Functions and Scope,,,Beginner Friendly,3,"4,098 learners enrolled",,4.7,163 ratings
+787,Free course,Learn React: Lifecycle Methods,,,Beginner Friendly,1,"2,849 learners enrolled",,4.4,134 ratings
+788,Free course,Learn JavaScript: Classes and Modules,,,Beginner Friendly,4,"3,026 learners enrolled",,4.7,82 ratings
+789,Free course,Learn JavaScript: Objects,,,Beginner Friendly,3,"3,822 learners enrolled",,4.7,97 ratings
+790,Free course,Learn JavaScript: Arrays and Loops,,,Beginner Friendly,3,"3,926 learners enrolled",,4.6,119 ratings
+791,Free course,Learn JavaScript: Best Practices,,,Beginner Friendly,1,"3,507 learners enrolled",,4.2,155 ratings
+792,Course,Learn JavaScript Unit Testing,,With Certificate,Intermediate,3,"12,833 learners enrolled",,4.4,222 ratings
+793,Course,Software Design Principles,,With Certificate,Intermediate,1,"7,106 learners enrolled",,4.1,220 ratings
+794,Free course,Learn TypeScript: Complex Types,,,Beginner Friendly,3,"1,880 learners enrolled",,4.4,60 ratings
+795,Free course,Learn React: Additional Basics,,,Beginner Friendly,1,"1,855 learners enrolled",,4.3,89 ratings
+796,Free course,Create a Professional Website with Velo by Wix,,,Beginner Friendly,17,"19,957 learners enrolled",,,
+797,Free course,Learn p5.js,,,Intermediate,9,"13,223 learners enrolled",,4.4,106 ratings
+798,Course,Connecting Front-End to Back-End,,With Certificate,Intermediate,1,"9,635 learners enrolled",,4.3,71 ratings
+799,Free course,Learn A-Frame (VR),,,Intermediate,2,"19,286 learners enrolled",,4.4,133 ratings
+800,Free course,User Authentication & Authorization in Express,,,Intermediate,5,"6,831 learners enrolled",,4.4,62 ratings
+801,Free course,Learn JavaScript: Requests,,,Beginner Friendly,2,"2,361 learners enrolled",,4.7,58 ratings
+802,Free course,Learn JavaScript: Iterators,,,Beginner Friendly,2,"2,564 learners enrolled",,4.7,82 ratings
+803,Free course,Learn Node.js: Setting Up a Server,,,Beginner Friendly,2,"2,136 learners enrolled",,,
+804,Free course,Learn JavaScript: Error Handling,,,Beginner Friendly,1,"2,132 learners enrolled",,4.6,94 ratings
+805,Course,Learn Intermediate TypeScript,,With Certificate,Intermediate,3,,,,
+806,Free course,Learn React: State Management,,,Beginner Friendly,1,"1,683 learners enrolled",,4.4,85 ratings
+807,Free course,Learn jQuery: Fundamentals,,,Intermediate,1,"1,151 learners enrolled",,4.4,53 ratings
+808,Course,Learn D3,,With Certificate,Intermediate,1,"7,810 learners enrolled",,3.9,57 ratings
+809,Course,Learn Testing for Web Development,,With Certificate,Intermediate,4,"9,816 learners enrolled",,,
+810,Course,Learn WebSockets,,With Certificate,Intermediate,2,"5,256 learners enrolled",,,
+811,Free course,Learn Phaser.js: Fundamentals,,,Intermediate,2,,,,
+812,Free course,Learn TypeScript: Union Types,,,Beginner Friendly,1,"1,092 learners enrolled",,,
+813,Free course,Learn TypeScript: Object Types,,,Beginner Friendly,1,"1,159 learners enrolled",,4.7,57 ratings
+814,Course,"Defending Node Applications from SQL Injection, XSS, & CSRF Attacks",,With Certificate,Intermediate,2,"2,334 learners enrolled",,,
+815,Course,Learn Intermediate TypeScript: Class Types,,With Certificate,Intermediate,1,,,,
+816,Free course,Learn TypeScript: Type Narrowing,,,Beginner Friendly,1,,,,
+817,Free course,Learn jQuery: Effects and Event Handling,,,Intermediate,1,,,,
+818,Free course,Learn Redux: Fundamentals,,,Beginner Friendly,5,"1,153 learners enrolled",,,
+819,Free course,Learn jQuery: DOM Traversing,,,Intermediate,1,"1,017 learners enrolled",,,
+820,Course,Learn CSS-in-JS,,With Certificate,Intermediate,1,"4,132 learners enrolled",,4,107 ratings
+821,Free course,Learn Testing for Web Development: Fundamentals,,,Intermediate,1,"1,081 learners enrolled",,,
+822,Free course,Learn React Router v6,,,Intermediate,2,"4,045 learners enrolled",,4.5,168 ratings
+823,Course,Technical Interview Practice with JavaScript,,With Certificate,Intermediate,1,"5,882 learners enrolled",,,
+824,Free course,Learn Redux: Redux Toolkit,,,Beginner Friendly,1,"1,303 learners enrolled",,,
+825,Course,Learn Handlebars,,,Intermediate,2,"1,543 learners enrolled",,,
+826,Free course,Learn jQuery: Styles,,,Intermediate,1,,,,
+827,Course,Learn Build Tools,,With Certificate,Intermediate,2,"3,751 learners enrolled",,,
+828,Free course,Velo by Wix: Working with Data,,,Beginner Friendly,6,,,,
+829,Course,Learn Intermediate TypeScript: Generics,,With Certificate,Intermediate,1,,,,
+830,Free course,Learn p5.js: Fundamentals,,,Intermediate,5,,,,
+831,Free course,Learn Phaser.js: Animations and Visuals,,,Intermediate,2,,,,
+832,Free course,Learn Phaser.js: Physics,,,Intermediate,2,,,,
+833,Free course,Learn Testing for Web Development: Model Testing,,,Intermediate,2,,,,
+834,Free course,Velo by Wix: Interactivity,,,Beginner Friendly,6,,,,
+835,Free course,Learn Redux: Middleware and Thunks,,,Beginner Friendly,2,,,,
+836,Free course,Learn Testing for Web Development: Server Testing,,,Intermediate,1,,,,
+837,Course,Learn Intermediate TypeScript: Type Narrowing,,With Certificate,Intermediate,1,,,,
+838,Free course,Learn p5.js: Interaction,,,Intermediate,2,,,,
+839,Free course,Learn p5.js: Media,,,Intermediate,2,,,,
+840,Free course,Velo by Wix: Fundamentals,,,Beginner Friendly,1,,,,
+841,Free course,Velo by Wix: Creating a Full-Stack App,,,Beginner Friendly,1,,,,
+842,Free course,Velo by Wix: Using Async Actions for the Backend,,,Beginner Friendly,4,,,,
+843,Free course,Learn Intermediate TypeScript: Configuration,,,Intermediate,1,,,,
+844,Free course,Learn React Router v5,,,Beginner Friendly,1,,,,
+845,Free course,Introduction to Back-End Programming,,,Beginner Friendly,1,"3,304 learners enrolled",,4.4,174 ratings
+846,Free course,Learn Kotlin,,,Beginner Friendly,9,"75,042 learners enrolled",,4.5,781 ratings
+847,Free course,Learn Kotlin: Introduction,,,Beginner Friendly,4,"1,533 learners enrolled",,4.8,51 ratings
+848,Free course,Learn Kotlin: Functions and Classes,,,Beginner Friendly,2,,,,
+849,Free course,Learn Kotlin: Collections and Loops,,,Beginner Friendly,3,,,,
+850,Career path,Machine Learning/AI Engineer,Includes 7 Courses,With Certificate,Intermediate,50,"24,224 learners enrolled","$127,000",,
+851,Career path,Data Scientist: Machine Learning Specialist,Includes 27 Courses,With Professional Certification,Beginner Friendly,90,"174,796 learners enrolled","$125,000",,
+852,Career path,Data Scientist: Natural Language Processing Specialist,Includes 31 Courses,With Certificate,Beginner Friendly,100,"12,617 learners enrolled","$125,000",,
+853,Skill path,Build Chatbots with Python,Includes 6 Courses,With Certificate,Beginner Friendly,28,"50,162 learners enrolled",,,
+854,Skill path,Build Deep Learning Models with TensorFlow,Includes 7 Courses,With Certificate,Intermediate,10,"15,286 learners enrolled",,,
+855,Skill path,Apply Natural Language Processing with Python,Includes 8 Courses,With Certificate,Intermediate,10,"7,700 learners enrolled",,,
+856,Skill path,Data Scientist Interview Preparation,Includes 8 Courses,With Certificate,Intermediate,3,"5,845 learners enrolled",,,
+857,Skill path,Feature Engineering,Includes 4 Courses,With Certificate,Intermediate,6,"2,812 learners enrolled",,,
+858,Skill path,Intermediate Machine Learning,Includes 5 Courses,With Certificate,Intermediate,8,"1,877 learners enrolled",,,
+859,Skill path,Data and Programming Foundations for AI,Includes 9 Courses,With Certificate,Beginner Friendly,38,"23,909 learners enrolled",,,
+860,Skill path,Build a Machine Learning Model,Includes 10 Courses,With Certificate,Beginner Friendly,23,"2,911 learners enrolled",,,
+861,Free course,Learn R,,,Beginner Friendly,14,"258,964 learners enrolled",,4.5,"1,545 ratings"
+862,Free course,Machine Learning: Introduction with Regression,,,Beginner Friendly,3,"8,876 learners enrolled",,4.6,178 ratings
+863,Free course,Learn How to Use ChatGPT,,,Beginner Friendly,1,"85,537 learners enrolled",,4.3,"3,109 ratings"
+864,Course,Intro to Cloud Computing,,With Certificate,Beginner Friendly,1,"20,589 learners enrolled",,4.4,"1,131 ratings"
+865,Free course,Intro to PyTorch and Neural Networks,,,Intermediate,3,"3,635 learners enrolled",,4.6,68 ratings
+866,Free course,Intro to Language Models in Python,,,Intermediate,4,"3,546 learners enrolled",,,
+867,Free course,Machine Learning: Logistic Regression,,,Beginner Friendly,3,"1,899 learners enrolled",,4.1,227 ratings
+868,Course,Getting Started with Natural Language Processing,,With Certificate,Beginner Friendly,1,"24,414 learners enrolled",,4.3,205 ratings
+869,Free course,Machine Learning: Perceptrons,,,Beginner Friendly,1,"3,137 learners enrolled",,4.4,88 ratings
+870,Free course,Intro to Deep Learning with TensorFlow,,,Intermediate,4,"3,784 learners enrolled",,4.6,70 ratings
+871,Free course,Intro to AI Transformers,,,Intermediate,2,"2,390 learners enrolled",,,
+872,Free course,Machine Learning: Random Forests & Decision Trees,,,Beginner Friendly,3,"2,479 learners enrolled",,,
+873,Free course,Machine Learning: K-Nearest Neighbors,,,Beginner Friendly,3,"1,375 learners enrolled",,,
+874,Course,Handling Missing Data,,With Certificate,Beginner Friendly,1,"3,106 learners enrolled",,4.3,165 ratings
+875,Course,PyTorch for Classification,,With Certificate,Beginner Friendly,3,"1,780 learners enrolled",,,
+876,Free course,Analyze Taylor Swift Lyrics with Python Case Study,,,Beginner Friendly,1,"5,458 learners enrolled",,4.1,75 ratings
+877,Free course,Learn to Program Alexa,,,Beginner Friendly,2,"23,046 learners enrolled",,,
+878,Free course,Machine Learning: Artificial Intelligence Decision Making with Minimax,,,Advanced,2,"3,889 learners enrolled",,4.5,50 ratings
+879,Course,Finetuning Transformer Models,,With Certificate,Intermediate,2,"1,144 learners enrolled",,,
+880,Course,Learn Linear Regression with R,,With Certificate,Intermediate,3,"2,455 learners enrolled",,,
+881,Free course,Machine Learning: Clustering with K-Means,,,Beginner Friendly,2,"1,189 learners enrolled",,,
+882,Free course,Build a Machine Learning Pipeline,,,Intermediate,1,"2,811 learners enrolled",,,
+883,Free course,Analyze NFL Stats with Python Case Study,,,Beginner Friendly,1,"5,469 learners enrolled",,4.3,91 ratings
+884,Course,Language Models in Python: Basic Chatbots,,,Intermediate,6,,,,
+885,Course,Deep Learning with TensorFlow: Image Classification,,,Intermediate,2,"1,091 learners enrolled",,,
+886,Free course,Intro to Hugging Face,,,Beginner Friendly,1,"2,979 learners enrolled",,4.2,122 ratings
+887,Course,Language Models in Python: Generative Chatbots,,,Intermediate,1,"1,074 learners enrolled",,,
+888,Free course,Analyze Traffic Safety Data with Python Case Study,,,Beginner Friendly,1,"1,828 learners enrolled",,4.4,59 ratings
+889,Free course,Learn Recommender Systems,,,Intermediate,1,"1,974 learners enrolled",,4.2,97 ratings
+890,Free course,Ensemble Methods in Machine Learning,,,Intermediate,2,,,,
+891,Course,Intro to Regularization with Python,,,Intermediate,2,,,,
+892,Course,Deep Learning with TensorFlow: Classification,,,Intermediate,2,,,,
+893,Course,Intro to Hyperparameter Tuning with Python,,,Intermediate,1,,,,
+894,Skill path,Fundamental Math for Data Science,Includes 8 Courses,With Certificate,Beginner Friendly,12,"17,850 learners enrolled",,,
+895,Skill path,Master Statistics with Python,Includes 9 Courses,With Certificate,Intermediate,26,"11,142 learners enrolled",,,
+896,Free course,Discrete Math,,,Intermediate,5,"14,725 learners enrolled",,,
+897,Free course,Linear Algebra,,,Beginner Friendly,1,"19,274 learners enrolled",,4.4,196 ratings
+898,Free course,Probability,,,Beginner Friendly,4,"28,553 learners enrolled",,4.3,96 ratings
+899,Free course,Linear Regression in Python,,,Intermediate,6,"6,068 learners enrolled",,,
+900,Free course,Differential Calculus,,,Beginner Friendly,1,"12,464 learners enrolled",,4.3,71 ratings
+901,Free course,Simple Linear Regression,,,Beginner Friendly,2,,,,
+902,Course,Hypothesis Testing with Python,,With Certificate,Intermediate,6,"2,031 learners enrolled",,,
+903,Free course,Discrete Math: Proofs,,,Beginner Friendly,1,,,,
+904,Free course,Multiple Linear Regression,,,Beginner Friendly,3,,,,
+905,Free course,Discrete Math: Binary and Bases,,,Beginner Friendly,1,,,,
+906,Free course,Discrete Math: Counting Theory,,,Beginner Friendly,1,,,,
+907,Free course,How to Choose a Linear Regression Model,,,Intermediate,1,,,,
+908,Free course,Discrete Math: Sequences and Summations,,,Beginner Friendly,1,,,,
+909,Free course,Discrete Math: Recurrence Relations,,,Beginner Friendly,1,,,,
+910,Free course,Discrete Math: Sets and Set Operations,,,Beginner Friendly,1,,,,
+911,Free course,Learn the Basics of Causal Inference with R,,,Intermediate,5,"1,652 learners enrolled",,,
+912,Free course,Discrete Math: Permutations and Combinations,,,Beginner Friendly,1,,,,
+913,Free course,Discrete Math: Congruences,,,Beginner Friendly,1,,,,
+914,Career path,iOS Developer,Includes 26 Courses,With Certificate,Beginner Friendly,35,"23,998 learners enrolled","$107,000",,
+915,Skill path,Build Basic Android Apps with Java,Includes 6 Courses,With Certificate,Beginner Friendly,16,"36,027 learners enrolled",,,
+916,Skill path,Build iOS Apps with SwiftUI,Includes 7 Courses,With Certificate,Beginner Friendly,13,"13,633 learners enrolled",,,
+917,Skill path,Build an Intermediate iOS App with SwiftUI,Includes 4 Courses,With Certificate,Intermediate,8,"2,442 learners enrolled",,,
+918,Skill path,Build a Social Media iOS App with Firebase and SwiftUI,Includes 4 Courses,With Certificate,Intermediate,1,"1,717 learners enrolled",,,
+919,Skill path,Pass the Technical Interview with Swift,Includes 7 Courses,With Certificate,Advanced,10,,,,
+920,Free course,Learn Java,,,Beginner Friendly,16,"1,125,540 learners enrolled",,4.4,"8,613 ratings"
+921,Free course,Learn Swift,,,Beginner Friendly,12,"160,815 learners enrolled",,4.7,827 ratings
+922,Free course,Learn React Native,,,Intermediate,6,"53,915 learners enrolled",,4.4,842 ratings
+923,Free course,Learn Kotlin,,,Beginner Friendly,9,"75,042 learners enrolled",,4.5,781 ratings
+924,Course,Learn the Basics of Android,,With Certificate,Intermediate,1,"9,121 learners enrolled",,4.1,239 ratings
+925,Free course,Learn Swift: Introduction,,,Beginner Friendly,1,"6,245 learners enrolled",,4.6,376 ratings
+926,Free course,Learn Intermediate Swift,,,Intermediate,9,"6,073 learners enrolled",,4.3,59 ratings
+927,Free course,Learn Kotlin: Introduction,,,Beginner Friendly,4,"1,533 learners enrolled",,4.8,51 ratings
+928,Free course,Learn Swift: Conditionals and Loops,,,Beginner Friendly,3,"1,484 learners enrolled",,,
+929,Free course,Learn Kotlin: Functions and Classes,,,Beginner Friendly,2,,,,
+930,Free course,Learn Swift: Closures,,,Intermediate,2,,,,
+931,Free course,"Learn Swift: Arrays, Sets, and Dictionaries",,,Beginner Friendly,4,,,,
+932,Free course,Learn Swift: Functions,,,Beginner Friendly,2,,,,
+933,Free course,Learn Kotlin: Collections and Loops,,,Beginner Friendly,3,,,,
+934,Free course,Learn Swift: Structs and Classes,,,Beginner Friendly,2,,,,
+935,Free course,Introduction to Algorithms and Linear Data Structures in Swift,,,Intermediate,5,,,,
+936,Free course,Introduction to Non-linear Data Structures in Swift,,,Advanced,4,,,,
+937,Free course,Learn Swift: Protocols and Generics,,,Intermediate,2,,,,
+938,Free course,Learn Swift: Optionals,,,Intermediate,2,,,,
+939,Free course,Learn Swift: Properties and Access Control,,,Intermediate,2,,,,
+940,Free course,Learn Swift: Enumerations,,,Intermediate,2,,,,
+941,Free course,Intro to Flutter,,,Beginner Friendly,1,"7,620 learners enrolled",,4.1,156 ratings
+942,Course,Learn Git & GitHub,,With Certificate,Beginner Friendly,4,"126,342 learners enrolled",,4.5,"1,653 ratings"
+943,Course,Introduction to Linux,,With Certificate,Intermediate,4,"18,771 learners enrolled",,4.3,331 ratings
+944,Free course,Introduction to Linux: Bash Scripting,,,Intermediate,3,"4,802 learners enrolled",,4.5,81 ratings
+945,Free course,Introduction to Blockchain and Crypto,,,Beginner Friendly,1,"10,596 learners enrolled",,4.3,264 ratings
+946,Free course,Learn p5.js,,,Intermediate,9,"13,223 learners enrolled",,4.4,106 ratings
+947,Free course,Introduction to Linux: Users and Permissions,,,Intermediate,1,"1,157 learners enrolled",,4.6,73 ratings
+948,Free course,Learn Emojicode,,,Beginner Friendly,1,"10,998 learners enrolled",,,
+949,Free course,Introduction to Open Source,,,Beginner Friendly,1,"3,321 learners enrolled",,4.4,148 ratings
+950,Free course,Learn p5.js: Fundamentals,,,Intermediate,5,,,,
+951,Free course,Introduction to Linux: Installation,,,Intermediate,1,"1,173 learners enrolled",,4.4,69 ratings
+952,Free course,Learn p5.js: Interaction,,,Intermediate,2,,,,
+953,Free course,Learn p5.js: Media,,,Intermediate,2,,,,
+954,Skill path,Learn PHP,Includes 8 Courses,With Certificate,Beginner Friendly,17,"10,503 learners enrolled",,,
+955,Free course,Learn PHP: Introduction,,,Beginner Friendly,2,"29,599 learners enrolled",,4.5,"1,459 ratings"
+956,Free course,Learn PHP: Form Handling and Validation,,,Beginner Friendly,4,"8,825 learners enrolled",,4.4,194 ratings
+957,Free course,Learn PHP: Functions,,,Beginner Friendly,3,"5,596 learners enrolled",,4.6,197 ratings
+958,Free course,Learn PHP: Objects and Classes,,,Beginner Friendly,1,"5,498 learners enrolled",,4.5,217 ratings
+959,Free course,Learn Intermediate PHP,,,Intermediate,4,"6,151 learners enrolled",,4.5,171 ratings
+960,Free course,Learn PHP: Arrays and Loops,,,Beginner Friendly,3,"4,623 learners enrolled",,4.4,125 ratings
+961,Free course,Learn PHP: Conditionals and Logic,,,Beginner Friendly,3,"4,128 learners enrolled",,4.6,110 ratings
+962,Free course,Agile Project Planning,,,Beginner Friendly,1,,,,
+963,Free course,Be Productive by Working Efficiently,,,Beginner Friendly,1,,,,
+964,Free course,Building and Delivering a Great Virtual Presentation,,,Beginner Friendly,1,,,,
+965,Free course,Building Success through Self-improvement,,,Beginner Friendly,1,,,,
+966,Free course,Coping in a Toxic Workplace,,,Beginner Friendly,1,,,,
+967,Free course,Customer Service: Fostering a Service Mindset,,,Beginner Friendly,1,,,,
+968,Free course,Customer Service: Interpreting Customers' Service Priorities,,,Beginner Friendly,1,,,,
+969,Free course,Delivering Feedback That Encourages Growth,,,Beginner Friendly,1,,,,
+970,Free course,Design Thinking for Innovation: Brainstorming and Ideation,,,Beginner Friendly,1,,,,
+971,Free course,Leading through the AI Disruption with Empathy,,,Beginner Friendly,1,,,,
+972,Free course,Design Thinking for Innovation: Stakeholder Engagement,,,Beginner Friendly,1,,,,
+973,Free course,Developing Personal Accountability,,,Beginner Friendly,1,,,,
+974,Free course,Effective Team Communication,,,Beginner Friendly,1,,,,
+975,Free course,Encouraging Innovation and Experimentation with AI,,,Beginner Friendly,1,,,,
+976,Free course,Expanding Your Communication Skill Set,,,Beginner Friendly,1,,,,
+977,Free course,"Listening to Engage, Empower, and Influence",,,Beginner Friendly,1,,,,
+978,Free course,"Mastering OKRs: Writing, Measuring, and Achieving Success",,,Beginner Friendly,1,,,,
+979,Free course,Neurodiversity in the Workplace,,,Beginner Friendly,1,,,,
+980,Free course,Overcoming Barriers to Effective Listening,,,Beginner Friendly,1,,,,
+981,Free course,Preparing a Great Virtual Presentation,,,Beginner Friendly,1,,,,
+982,Free course,Product Management: Communication for Product Managers,,,Beginner Friendly,1,,,,
+983,Free course,Product Management: Competitive and Market Analytics for Product Managers,,,Beginner Friendly,1,,,,
+984,Free course,Product Management: Metrics for Product Managers,,,Beginner Friendly,1,,,,
+985,Free course,Psychological Safety: Building a Culture of Inclusion and Innovation,,,Beginner Friendly,1,,,,
+986,Free course,Saving Time by Setting Goals,,,Beginner Friendly,1,,,,
+987,Free course,Taking the Lead with Workplace Motivation and Engagement,,,Beginner Friendly,1,,,,
+988,Free course,Telling a Business Story,,,Beginner Friendly,1,,,,
+989,Free course,"Workplace Diversity, Equity, and Inclusion in Action",,,Beginner Friendly,1,,,,
+990,Free course,Navigating Micro-behavior Dynamics in the Workplace,,,Beginner Friendly,1,,,,
+991,Free course,Agile Principles and Methodologies,,,Beginner Friendly,1,,,,
+992,Free course,Art and Science of Behavioral Interviewing,,,Beginner Friendly,1,,,,
+993,Free course,Becoming a Continuous Learner,,,Beginner Friendly,1,,,,
+994,Free course,Becoming a DEI Ally and Agent for Change,,,Beginner Friendly,1,,,,
+995,Free course,Becoming a Successful Collaborator,,,Beginner Friendly,1,,,,
+996,Free course,Design Thinking for Innovation: Prototyping and Testing,,,Beginner Friendly,1,,,,
+997,Free course,Building Customer Relationships in a Virtual Environment,,,Beginner Friendly,1,,,,
+998,Free course,CAPM(r): Project Tailoring,,,Intermediate,1,,,,
+999,Free course,Customer Service: Adapting to Your Customers' Cues,,,Beginner Friendly,1,,,,
+1000,Free course,Customer Service: Discovering Customer Needs,,,Beginner Friendly,1,,,,
+1001,Free course,Customer Service: Engaging with Customers,,,Beginner Friendly,1,,,,
+1002,Free course,Design Thinking for Innovation: Defining Opportunities,,,Beginner Friendly,1,,,,
+1003,Free course,Developing a Mindset of Growth and Learning,,,Beginner Friendly,1,,,,
+1004,Free course,Developing Your Business Acumen,,,Beginner Friendly,1,,,,
+1005,Free course,Effective Stakeholder Communications for Technology Professionals,,,Beginner Friendly,1,,,,
+1006,Free course,Embracing a Customer-obsessed Mentality,,,Beginner Friendly,1,,,,
+1007,Free course,Embracing Risk and Learning from Setbacks with AI Projects,,,Beginner Friendly,1,,,,
+1008,Free course,Leading in the Age of Generative AI,,,Beginner Friendly,1,,,,
+1009,Free course,Get Organized and Stop Procrastinating,,,Beginner Friendly,1,,,,
+1010,Free course,Getting Started with Design Thinking,,,Beginner Friendly,1,,,,
+1011,Free course,Influencing without Authority,,,Beginner Friendly,1,,,,
+1012,Free course,Managing Your Time So It Doesn't Manage You,,,Beginner Friendly,1,,,,
+1013,Free course,Measuring Outcomes and Using KPIs,,,Beginner Friendly,1,,,,
+1014,Free course,Moving from Bias to Inclusion in a DEI Journey,,,Beginner Friendly,1,,,,
+1015,Free course,New Project Manager Essentials,,,Beginner Friendly,1,,,,
+1016,Free course,Nurturing the Creative Power of Your Team,,,Beginner Friendly,1,,,,
+1017,Free course,Optimizing Your Workplace Well-being,,,Beginner Friendly,1,,,,
+1018,Free course,Outwitting Your Cognitive Bias,,,Beginner Friendly,1,,,,
+1019,Free course,Product Management: An Overview,,,Beginner Friendly,1,,,,
+1020,Free course,Product Management: Building a Product Roadmap and Agile Product Management,,,Beginner Friendly,1,,,,
+1021,Free course,Product Management: Building a Product Strategy,,,Beginner Friendly,1,,,,
+1022,Free course,Product Management: Create a Go-to-Market Plan,,,Beginner Friendly,1,,,,
+1023,Free course,Product Management: Designing and Running Experiments,,,Beginner Friendly,1,,,,
+1024,Free course,Product Management: Understanding and Developing Customers,,,Beginner Friendly,1,,,,
+1025,Free course,Proven Techniques for Technical Communication,,,Beginner Friendly,1,,,,
+1026,Free course,Set Your Workspace Up For Success,,,Beginner Friendly,1,,,,
+1027,Free course,Sharpening Your Focus to Stay on Track,,,Beginner Friendly,1,,,,
+1028,Free course,Strategies for Managing Technical Teams,,,Beginner Friendly,1,,,,
+1029,Free course,Unleashing Personal and Team Creativity,,,Beginner Friendly,1,,,,
+1030,Free course,Unleashing Your Self-confidence,,,Beginner Friendly,1,,,,
+1031,Free course,Writing with a Professional Mindset,,,Beginner Friendly,1,,,,
+1032,Career path,Business Intelligence Data Analyst,Includes 18 Courses,With Certificate,Beginner Friendly,50,"26,567 learners enrolled","$87,000",,
+1033,Skill path,Analyze Financial Data with Python,Includes 6 Courses,With Certificate,Beginner Friendly,25,"36,395 learners enrolled",,,
+1034,Skill path,Build Chatbots with Python,Includes 6 Courses,With Certificate,Beginner Friendly,28,"50,162 learners enrolled",,,
+1035,Skill path,Build Python Web Apps with Flask,Includes 8 Courses,With Certificate,Intermediate,28,"25,268 learners enrolled",,,
+1036,Skill path,Build Deep Learning Models with TensorFlow,Includes 7 Courses,With Certificate,Intermediate,10,"15,286 learners enrolled",,,
+1037,Skill path,Master Statistics with Python,Includes 9 Courses,With Certificate,Intermediate,26,"11,142 learners enrolled",,,
+1038,Skill path,Pass the Technical Interview with Python,Includes 8 Courses,With Certificate,Intermediate,25,"20,801 learners enrolled",,,
+1039,Skill path,Apply Natural Language Processing with Python,Includes 8 Courses,With Certificate,Intermediate,10,"7,700 learners enrolled",,,
+1040,Skill path,Build Python Web Apps with Django,Includes 9 Courses,With Certificate,Intermediate,13,"22,754 learners enrolled",,,
+1041,Skill path,Data Analyst Interview Preparation,Includes 7 Courses,With Certificate,Intermediate,3,"7,412 learners enrolled",,,
+1042,Skill path,Data Scientist Interview Preparation,Includes 8 Courses,With Certificate,Intermediate,3,"5,845 learners enrolled",,,
+1043,Skill path,Fundamental Math for Data Science,Includes 8 Courses,With Certificate,Beginner Friendly,12,"17,850 learners enrolled",,,
+1044,Skill path,Feature Engineering,Includes 4 Courses,With Certificate,Intermediate,6,"2,812 learners enrolled",,,
+1045,Skill path,Software Engineering for Data Scientists,Includes 7 Courses,With Certificate,Intermediate,22,"4,616 learners enrolled",,,
+1046,Skill path,Intermediate Machine Learning,Includes 5 Courses,With Certificate,Intermediate,8,"1,877 learners enrolled",,,
+1047,Skill path,Learn Python for Data Science,Includes 5 Courses,With Certificate,Beginner Friendly,16,"4,733 learners enrolled",,,
+1048,Skill path,Data and Programming Foundations for AI,Includes 9 Courses,With Certificate,Beginner Friendly,38,"23,909 learners enrolled",,,
+1049,Skill path,Visualize Data with Python,Includes 6 Courses,With Certificate,Beginner Friendly,7,"2,851 learners enrolled",,,
+1050,Skill path,Build a Machine Learning Model,Includes 10 Courses,With Certificate,Beginner Friendly,23,"2,911 learners enrolled",,,
+1051,Skill path,Analyze Data with Python,Includes 8 Courses,With Certificate,Intermediate,13,"4,364 learners enrolled",,,
+1052,Course,Learn Python 3,,With Certificate,Beginner Friendly,23,"2,517,022 learners enrolled",,4.6,"9,378 ratings"
+1053,Free course,Learn Python 2,,,Beginner Friendly,17,"1,008,578 learners enrolled",,4.3,"6,565 ratings"
+1054,Free course,Getting Started with Python for Data Science,,,Beginner Friendly,7,"60,281 learners enrolled",,4.6,858 ratings
+1055,Course,Learn Intermediate Python 3,,With Certificate,Intermediate,20,"61,043 learners enrolled",,4.2,"1,038 ratings"
+1056,Free course,Python for Programmers,,,Intermediate,3,"79,284 learners enrolled",,4.2,"1,628 ratings"
+1057,Course,Learn Data Analysis with Pandas,,With Certificate,Intermediate,6,"29,334 learners enrolled",,4.6,423 ratings
+1058,Free course,Machine Learning: Introduction with Regression,,,Beginner Friendly,3,"8,876 learners enrolled",,4.6,178 ratings
+1059,Course,Learn Data Structures and Algorithms with Python,,With Certificate,Intermediate,26,"32,396 learners enrolled",,4.4,127 ratings
+1060,Free course,Learn Intermediate Python 3: Object-Oriented Programming,,,Intermediate,2,"11,695 learners enrolled",,4.5,303 ratings
+1061,Course,OpenAI API Coding with Python,,With Certificate,Intermediate,1,"1,033 learners enrolled",,,
+1062,Free course,Intro to Data Visualization with Python,,,Beginner Friendly,3,"4,081 learners enrolled",,4.4,80 ratings
+1063,Free course,Intro to PyTorch and Neural Networks,,,Intermediate,3,"3,635 learners enrolled",,4.6,68 ratings
+1064,Course,Learn Web Scraping with Beautiful Soup,,With Certificate,Intermediate,2,"22,097 learners enrolled",,4.2,252 ratings
+1065,Free course,Introduction to Big Data with PySpark,,,Beginner Friendly,4,"5,612 learners enrolled",,4.4,202 ratings
+1066,Free course,Intro to Language Models in Python,,,Intermediate,4,"3,546 learners enrolled",,,
+1067,Course,Learn Statistics with Python,,With Certificate,Beginner Friendly,4,"14,518 learners enrolled",,,
+1068,Free course,Build Connect Four Using Python,,,Beginner Friendly,1,"29,426 learners enrolled",,3.8,134 ratings
+1069,Free course,Python for Data Science: Working with Data,,,Beginner Friendly,9,"8,180 learners enrolled",,4.6,106 ratings
+1070,Free course,Machine Learning: Logistic Regression,,,Beginner Friendly,3,"1,899 learners enrolled",,4.1,227 ratings
+1071,Free course,Discrete Math,,,Intermediate,5,"14,725 learners enrolled",,,
+1072,Course,Learn Advanced Python 3,,With Certificate,Advanced,6,"13,992 learners enrolled",,4.5,248 ratings
+1073,Course,Getting Started with Natural Language Processing,,With Certificate,Beginner Friendly,1,"24,414 learners enrolled",,4.3,205 ratings
+1074,Course,How to Clean Data with Python,,With Certificate,Intermediate,3,"19,599 learners enrolled",,4.4,208 ratings
+1075,Free course,Linear Algebra,,,Beginner Friendly,1,"19,274 learners enrolled",,4.4,196 ratings
+1076,Free course,Learn Flask: Fundamentals,,,Intermediate,2,"2,668 learners enrolled",,4.3,142 ratings
+1077,Free course,Learn Intermediate Python 3: Exceptions and Unit Testing,,,Intermediate,4,"2,902 learners enrolled",,4.6,55 ratings
+1078,Free course,Machine Learning: Perceptrons,,,Beginner Friendly,1,"3,137 learners enrolled",,4.4,88 ratings
+1079,Free course,"Learn Intermediate Python 3: Functions, Namespaces, and Scope",,,Intermediate,4,"3,015 learners enrolled",,4.6,76 ratings
+1080,Free course,Intro to Deep Learning with TensorFlow,,,Intermediate,4,"3,784 learners enrolled",,4.6,70 ratings
+1081,Free course,Machine Learning: Random Forests & Decision Trees,,,Beginner Friendly,3,"2,479 learners enrolled",,,
+1082,Course,Learn Statistics with NumPy,,With Certificate,Intermediate,4,"9,806 learners enrolled",,4.3,96 ratings
+1083,Free course,Machine Learning: K-Nearest Neighbors,,,Beginner Friendly,3,"1,375 learners enrolled",,,
+1084,Free course,Probability,,,Beginner Friendly,4,"28,553 learners enrolled",,4.3,96 ratings
+1085,Free course,Learn Raspberry Pi,,,Beginner Friendly,2,"10,018 learners enrolled",,4.3,105 ratings
+1086,Free course,Linear Regression in Python,,,Intermediate,6,"6,068 learners enrolled",,,
+1087,Free course,Getting Started Off-Platform for Data Science,,,Beginner Friendly,1,"19,488 learners enrolled",,4.3,244 ratings
+1088,Course,PyTorch for Classification,,With Certificate,Beginner Friendly,3,"1,780 learners enrolled",,,
+1089,Free course,Analyze Taylor Swift Lyrics with Python Case Study,,,Beginner Friendly,1,"5,458 learners enrolled",,4.1,75 ratings
+1090,Course,Learn Flask,,With Certificate,Intermediate,12,"10,489 learners enrolled",,,
+1091,Free course,Machine Learning: Artificial Intelligence Decision Making with Minimax,,,Advanced,2,"3,889 learners enrolled",,4.5,50 ratings
+1092,Course,Exploratory Data Analysis in Python,,With Certificate,Beginner Friendly,5,"5,914 learners enrolled",,,
+1093,Free course,Learn Intermediate Python 3: Iterators and Generators,,,Intermediate,4,"1,703 learners enrolled",,,
+1094,Free course,Data Visualization with Python: Seaborn,,,Beginner Friendly,2,"1,066 learners enrolled",,,
+1095,Free course,Learn Advanced Python 3: Functional Programming,,,Advanced,2,"1,827 learners enrolled",,,
+1096,Course,Finetuning Transformer Models,,With Certificate,Intermediate,2,"1,144 learners enrolled",,,
+1097,Free course,Learn Flask: Jinja2 Templates and Forms,,,Intermediate,4,,,,
+1098,Course,Learn the Basics of Blockchain with Python,,With Certificate,Beginner Friendly,2,"33,901 learners enrolled",,4.1,158 ratings
+1099,Free course,Data Visualization with Python: Visual Arguments,,,Beginner Friendly,1,"1,014 learners enrolled",,,
+1100,Free course,Machine Learning: Clustering with K-Means,,,Beginner Friendly,2,"1,189 learners enrolled",,,
+1101,Free course,Differential Calculus,,,Beginner Friendly,1,"12,464 learners enrolled",,4.3,71 ratings
+1102,Course,Technical Interview Practice with Python,,With Certificate,Intermediate,6,"27,036 learners enrolled",,,
+1103,Free course,Build a Machine Learning Pipeline,,,Intermediate,1,"2,811 learners enrolled",,,
+1104,Free course,Learn Advanced Python 3: Database Operations,,,Advanced,1,"1,481 learners enrolled",,,
+1105,Free course,Analyze NFL Stats with Python Case Study,,,Beginner Friendly,1,"5,469 learners enrolled",,4.3,91 ratings
+1106,Course,Language Models in Python: Basic Chatbots,,,Intermediate,6,,,,
+1107,Free course,Learn Advanced Python 3: Concurrency,,,Advanced,1,"1,323 learners enrolled",,,
+1108,Free course,Learn Flask: Databases,,,Intermediate,3,,,,
+1109,Free course,Learn Raspberry Pi: Command Line,,,Beginner Friendly,1,"1,175 learners enrolled",,,
+1110,Course,Learn Recursion with Python,,With Certificate,Intermediate,3,"11,958 learners enrolled",,,
+1111,Course,Learn Advanced Algorithms and Data Structures with Python,,With Certificate,Advanced,6,"2,862 learners enrolled",,,
+1112,Course,Deep Learning with TensorFlow: Image Classification,,,Intermediate,2,"1,091 learners enrolled",,,
+1113,Free course,Learn Advanced Python 3: Logging,,,Advanced,1,"1,117 learners enrolled",,,
+1114,Free course,Learn Intermediate Python 3: Sets and Specialized Collections,,,Intermediate,5,"1,071 learners enrolled",,,
+1115,Course,Hypothesis Testing with Python,,With Certificate,Intermediate,6,"2,031 learners enrolled",,,
+1116,Free course,Discrete Math: Proofs,,,Beginner Friendly,1,,,,
+1117,Free course,Discrete Math: Binary and Bases,,,Beginner Friendly,1,,,,
+1118,Free course,Learn Raspberry Pi: Electronics,,,Beginner Friendly,1,"1,146 learners enrolled",,4.5,60 ratings
+1119,Course,Language Models in Python: Generative Chatbots,,,Intermediate,1,"1,074 learners enrolled",,,
+1120,Free course,Analyze Traffic Safety Data with Python Case Study,,,Beginner Friendly,1,"1,828 learners enrolled",,4.4,59 ratings
+1121,Free course,Learn Flask: Accounts and Authentication,,,Intermediate,2,,,,
+1122,Free course,Learn Intermediate Python 3: Resource Management,,,Intermediate,2,,,,
+1123,Free course,Learn Raspberry Pi: Introduction,,,Beginner Friendly,1,"1,305 learners enrolled",,,
+1124,Course,Language Parsing,,With Certificate,Intermediate,2,"1,182 learners enrolled",,,
+1125,Free course,Learn Advanced Data Structures with Python: Trees,,,Advanced,1,"1,100 learners enrolled",,,
+1126,Free course,Discrete Math: Counting Theory,,,Beginner Friendly,1,,,,
+1127,Course,Linear Data Structures,,With Certificate,Intermediate,4,"9,234 learners enrolled",,,
+1128,Course,Language Models in Python: Generative Text,,With Certificate,Intermediate,1,"3,607 learners enrolled",,,
+1129,Free course,Discrete Math: Sequences and Summations,,,Beginner Friendly,1,,,,
+1130,Free course,Discrete Math: Recurrence Relations,,,Beginner Friendly,1,,,,
+1131,Free course,Discrete Math: Sets and Set Operations,,,Beginner Friendly,1,,,,
+1132,Free course,Discrete Math: Permutations and Combinations,,,Beginner Friendly,1,,,,
+1133,Course,Learn Complex Data Structures,,With Certificate,Intermediate,7,"9,615 learners enrolled",,,
+1134,Free course,Learn Advanced Algorithms with Python: Hamiltonian Algorithms,,,Advanced,1,,,,
+1135,Course,Text Preprocessing,,With Certificate,Intermediate,2,"1,907 learners enrolled",,,
+1136,Free course,Learn Advanced Data Structures with Python: Deques,,,Advanced,1,,,,
+1137,Course,How to Implement Search Algorithms with Python,,With Certificate,Intermediate,2,"4,564 learners enrolled",,,
+1138,Free course,Learn How to Use AI for Data Analysis,,,Intermediate,1,"2,809 learners enrolled",,,
+1139,Free course,Learn Advanced Algorithms with Python: String Searching Algorithms,,,Advanced,3,,,,
+1140,Free course,Discrete Math: Congruences,,,Beginner Friendly,1,,,,
+1141,Free course,Learn Recommender Systems,,,Intermediate,1,"1,974 learners enrolled",,4.2,97 ratings
+1142,Free course,Ensemble Methods in Machine Learning,,,Intermediate,2,,,,
+1143,Course,Learn Sorting Algorithms with Python,,With Certificate,Intermediate,3,"6,577 learners enrolled",,,
+1144,Course,Deep Learning with TensorFlow: Classification,,,Intermediate,2,,,,
+1145,Course,Intro to Regularization with Python,,,Intermediate,2,,,,
+1146,Course,Learn Hardware Programming with CircuitPython,,With Certificate,Beginner Friendly,2,"6,840 learners enrolled",,,
+1147,Course,Intro to Hyperparameter Tuning with Python,,,Intermediate,1,,,,
+1148,Free course,Learning Django Using Generative AI Help,,,Beginner Friendly,2,,,,
+1149,Free course,Creating Django Views & Models,,,Intermediate,2,,,,
+1150,Free course,Prompt Engineering to Build a Django App,,,Intermediate,2,,,,
+1151,Career path,Data Scientist: Inference Specialist,Includes 24 Courses,With Certificate,Beginner Friendly,80,"7,073 learners enrolled","$125,000",,
+1152,Skill path,Analyze Data with R,Includes 7 Courses,With Certificate,Beginner Friendly,21,"16,151 learners enrolled",,,
+1153,Free course,Learn R,,,Beginner Friendly,14,"258,964 learners enrolled",,4.5,"1,545 ratings"
+1154,Free course,R for Programmers,,,Beginner Friendly,1,"4,311 learners enrolled",,4.1,138 ratings
+1155,Free course,Getting Started Off-Platform for Data Science,,,Beginner Friendly,1,"19,488 learners enrolled",,4.3,244 ratings
+1156,Free course,Learn Statistics with R,,,Intermediate,4,"7,735 learners enrolled",,4.4,55 ratings
+1157,Course,Learn Linear Regression with R,,With Certificate,Intermediate,3,"2,455 learners enrolled",,,
+1158,Free course,Learn dplyr,,,Intermediate,8,"2,897 learners enrolled",,,
+1159,Course,Learn ggplot2,,With Certificate,Intermediate,4,"3,120 learners enrolled",,3.9,50 ratings
+1160,Free course,Learn the Basics of Causal Inference with R,,,Intermediate,5,"1,652 learners enrolled",,,
+1161,Free course,Regression Discontinuity Design and Instrumental Variables,,,Advanced,2,,,,
+1162,Free course,Difference in Differences for Causal Inference,,,Advanced,1,,,,
+1163,Free course,Matching and Weighting Methods for Causal Inference,,,Advanced,2,,,,
+1164,Free course,Potential Outcomes Framework for Causal Inference,,,Advanced,1,,,,
+1165,Free course,Learn Ruby,,,Beginner Friendly,9,"167,029 learners enrolled",,4.5,"2,448 ratings"
+1166,Course,Learn Ruby on Rails,,With Certificate,Intermediate,6,"23,563 learners enrolled",,3.8,95 ratings
+1167,Course,Learn Authentication with Ruby on Rails,,With Certificate,Intermediate,3,"3,574 learners enrolled",,,
+1168,Career path,Full-Stack Engineer,Includes 51 Courses,With Professional Certification,Beginner Friendly,150,"269,434 learners enrolled","$120,000",,
+1169,Career path,Data Scientist: Analytics Specialist,Includes 22 Courses,With Professional Certification,Beginner Friendly,70,"58,805 learners enrolled","$125,000",,
+1170,Career path,Business Intelligence Data Analyst,Includes 18 Courses,With Certificate,Beginner Friendly,50,"26,567 learners enrolled","$87,000",,
+1171,Career path,Data Scientist: Inference Specialist,Includes 24 Courses,With Certificate,Beginner Friendly,80,"7,073 learners enrolled","$125,000",,
+1172,Skill path,Analyze Data with SQL,Includes 9 Courses,With Certificate,Beginner Friendly,17,"112,957 learners enrolled",,,
+1173,Skill path,Design Databases With PostgreSQL,Includes 5 Courses,With Certificate,Beginner Friendly,13,"22,060 learners enrolled",,,
+1174,Skill path,Data Analyst Interview Preparation,Includes 7 Courses,With Certificate,Intermediate,3,"7,412 learners enrolled",,,
+1175,Skill path,Data Scientist Interview Preparation,Includes 8 Courses,With Certificate,Intermediate,3,"5,845 learners enrolled",,,
+1176,Free course,Learn SQL,,,Beginner Friendly,5,"922,044 learners enrolled",,4.6,"17,535 ratings"
+1177,Free course,Intro to SQL,,,Beginner Friendly,2,"20,110 learners enrolled",,4.7,"1,047 ratings"
+1178,Free course,Learn SQL: Multiple Tables,,,Beginner Friendly,1,"7,688 learners enrolled",,4.6,273 ratings
+1179,Free course,Learn SQL: Aggregate Functions,,,Beginner Friendly,1,"6,374 learners enrolled",,4.5,255 ratings
+1180,Course,How to Transform Tables with SQL,,With Certificate,Intermediate,2,"16,120 learners enrolled",,3.9,355 ratings
+1181,Free course,Learn How to Use AI for SQL,,,Beginner Friendly,1,,,,
+1182,Course,How to Analyze Business Metrics with SQL,,With Certificate,Intermediate,1,"13,394 learners enrolled",,4,328 ratings
+1183,Course,Learn Intermediate SQL for Marketers and Product Managers,,With Certificate,Intermediate,4,"8,890 learners enrolled",,4.4,99 ratings
+1184,Free course,Learn Node-SQLite,,,Intermediate,2,"6,536 learners enrolled",,4.4,76 ratings
+1185,Free course,Getting Started Off-Platform for Data Science,,,Beginner Friendly,1,"19,488 learners enrolled",,4.3,244 ratings
+1186,Career path,iOS Developer,Includes 26 Courses,With Certificate,Beginner Friendly,35,"23,998 learners enrolled","$107,000",,
+1187,Skill path,Build iOS Apps with SwiftUI,Includes 7 Courses,With Certificate,Beginner Friendly,13,"13,633 learners enrolled",,,
+1188,Skill path,Build an Intermediate iOS App with SwiftUI,Includes 4 Courses,With Certificate,Intermediate,8,"2,442 learners enrolled",,,
+1189,Skill path,Build a Social Media iOS App with Firebase and SwiftUI,Includes 4 Courses,With Certificate,Intermediate,1,"1,717 learners enrolled",,,
+1190,Skill path,Pass the Technical Interview with Swift,Includes 7 Courses,With Certificate,Advanced,10,,,,
+1191,Free course,Learn Swift,,,Beginner Friendly,12,"160,815 learners enrolled",,4.7,827 ratings
+1192,Free course,Learn Swift: Introduction,,,Beginner Friendly,1,"6,245 learners enrolled",,4.6,376 ratings
+1193,Free course,Learn Intermediate Swift,,,Intermediate,9,"6,073 learners enrolled",,4.3,59 ratings
+1194,Free course,Learn Swift: Conditionals and Loops,,,Beginner Friendly,3,"1,484 learners enrolled",,,
+1195,Free course,Learn Swift: Closures,,,Intermediate,2,,,,
+1196,Free course,Learn Swift: Functions,,,Beginner Friendly,2,,,,
+1197,Free course,"Learn Swift: Arrays, Sets, and Dictionaries",,,Beginner Friendly,4,,,,
+1198,Free course,Learn Swift: Structs and Classes,,,Beginner Friendly,2,,,,
+1199,Free course,Introduction to Non-linear Data Structures in Swift,,,Advanced,4,,,,
+1200,Free course,Learn Swift: Protocols and Generics,,,Intermediate,2,,,,
+1201,Free course,Learn Swift: Optionals,,,Intermediate,2,,,,
+1202,Free course,Learn Swift: Properties and Access Control,,,Intermediate,2,,,,
+1203,Free course,Learn Swift: Enumerations,,,Intermediate,2,,,,
+1204,Skill path,"Build a Website with HTML, CSS, and GitHub Pages",Includes 9 Courses,With Certificate,Beginner Friendly,14,"138,562 learners enrolled",,,
+1205,Free course,Learn HTML,,,Beginner Friendly,7,"2,032,797 learners enrolled",,4.6,"40,581 ratings"
+1206,Free course,Learn CSS,,,Beginner Friendly,6,"395,309 learners enrolled",,4.5,"11,864 ratings"
+1207,Free course,Learn Intermediate CSS,,,Intermediate,10,"73,025 learners enrolled",,4.4,"1,015 ratings"
+1208,Free course,Learn HTML: Fundamentals,,,Beginner Friendly,3,"17,419 learners enrolled",,4.6,"1,300 ratings"
+1209,Course,Learn Bootstrap,,With Certificate,Intermediate,3,"44,309 learners enrolled",,4.6,940 ratings
+1210,Free course,How to Make a Website with NameCheap,,,Beginner Friendly,4,"153,809 learners enrolled",,4.5,"1,194 ratings"
+1211,Free course,Learn CSS: Introduction ,,,Beginner Friendly,2,"14,165 learners enrolled",,4.6,"1,035 ratings"
+1212,Free course,Introduction to UI and UX Design,,,Beginner Friendly,2,"107,739 learners enrolled",,4.5,"3,938 ratings"
+1213,Free course,Learn CSS: Flexbox and Grid,,,Beginner Friendly,4,"16,239 learners enrolled",,4.6,457 ratings
+1214,Free course,Learn CSS: Transitions and Animations,,,Beginner Friendly,1,"7,388 learners enrolled",,4.5,421 ratings
+1215,Free course,Learn HTML: Forms,,,Beginner Friendly,2,"8,099 learners enrolled",,4.5,360 ratings
+1216,Course,Learn CSS: Responsive Design,,With Certificate,Intermediate,2,"8,198 learners enrolled",,4.6,450 ratings
+1217,Free course,Learn CSS: Box Model and Layout,,,Beginner Friendly,2,"8,360 learners enrolled",,4.5,366 ratings
+1218,Free course,Learn HTML: Tables,,,Beginner Friendly,1,"7,130 learners enrolled",,4.5,408 ratings
+1219,Course,Learn Sass,,With Certificate,Intermediate,3,"22,712 learners enrolled",,4.1,196 ratings
+1220,Free course,Learn HTML: Semantic HTML,,,Beginner Friendly,1,"6,380 learners enrolled",,4.6,368 ratings
+1221,Free course,Learn CSS: Colors,,,Beginner Friendly,1,"5,129 learners enrolled",,4.6,303 ratings
+1222,Free course,Learn CSS: Accessibility,,,Beginner Friendly,1,"2,958 learners enrolled",,4.5,129 ratings
+1223,Free course,Learn User Research: Generative,,,Beginner Friendly,1,"3,710 learners enrolled",,4.4,136 ratings
+1224,Free course,Learn CSS: Typography and Fonts,,,Beginner Friendly,1,"4,428 learners enrolled",,4.6,205 ratings
+1225,Free course,Learn CSS: Variables and Functions,,,Beginner Friendly,2,"3,156 learners enrolled",,4.6,100 ratings
+1226,Course,Learn Navigation Design,,With Certificate,Intermediate,2,"10,470 learners enrolled",,4.1,77 ratings
+1227,Free course,Learn Sass: Fundamentals,,,Intermediate,1,"1,885 learners enrolled",,4.3,89 ratings
+1228,Course,Learn Color Design,,With Certificate,Intermediate,2,"15,480 learners enrolled",,4.5,157 ratings
+1229,Free course,Learn CSS: Browser Compatibility,,,Beginner Friendly,1,"2,494 learners enrolled",,4.3,118 ratings
+1230,Free course,Learn Visual Design,,,Beginner Friendly,1,"2,731 learners enrolled",,4.4,50 ratings
+1231,Free course,Learn Sass: Mixins and Parent Selector,,,Intermediate,1,,,,
+1232,Free course,Learn Design Thinking: Ideation,,,Beginner Friendly,1,"3,299 learners enrolled",,4.5,97 ratings
+1233,Free course,Learn Sass: Best Practices,,,Intermediate,1,"1,350 learners enrolled",,,
+1234,Free course,Learn Sass: Functions and Operations,,,Intermediate,1,,,,
+1235,Course,Learn Interaction Design,,With Certificate,Intermediate,2,"2,590 learners enrolled",,4.7,60 ratings
+1236,Course,Learn Design Thinking: Iteration,,With Certificate,Intermediate,1,,,,
+1237,Course,Learn User Research: Evaluative,,With Certificate,Intermediate,2,,,,
+1238,Career path,Full-Stack Engineer,Includes 51 Courses,With Professional Certification,Beginner Friendly,150,"269,434 learners enrolled","$120,000",,
+1239,Career path,Front-End Engineer,Includes 34 Courses,With Professional Certification,Beginner Friendly,115,"142,271 learners enrolled","$120,000",,
+1240,Career path,Back-End Engineer,Includes 41 Courses,With Professional Certification,Beginner Friendly,105,"52,827 learners enrolled","$120,000",,
+1241,Skill path,Create a Back-End App with JavaScript,Includes 8 Courses,With Certificate,Beginner Friendly,30,"40,394 learners enrolled",,,
+1242,Skill path,"Build a Website with HTML, CSS, and GitHub Pages",Includes 9 Courses,With Certificate,Beginner Friendly,14,"138,562 learners enrolled",,,
+1243,Skill path,Create a Front-End App with React,Includes 9 Courses,With Certificate,Intermediate,37,"49,013 learners enrolled",,,
+1244,Skill path,Pass the Technical Interview with JavaScript,Includes 8 Courses,With Certificate,Intermediate,13,"23,176 learners enrolled",,,
+1245,Skill path,Build Web Apps with ASP.NET,Includes 7 Courses,With Certificate,Intermediate,34,"20,130 learners enrolled",,,
+1246,Skill path,Build Python Web Apps with Flask,Includes 8 Courses,With Certificate,Intermediate,28,"25,268 learners enrolled",,,
+1247,Skill path,Pass the Technical Interview with Java,Includes 8 Courses,With Certificate,Intermediate,19,"15,506 learners enrolled",,,
+1248,Skill path,Create an Advanced Web App with React and Redux,Includes 6 Courses,With Certificate,Intermediate,22,"11,271 learners enrolled",,,
+1249,Skill path,Build Python Web Apps with Django,Includes 9 Courses,With Certificate,Intermediate,13,"22,754 learners enrolled",,,
+1250,Skill path,Create REST APIs with Spring and Java,Includes 9 Courses,With Certificate,Beginner Friendly,20,"16,569 learners enrolled",,,
+1251,Skill path,Securing Express Applications,Includes 5 Courses,With Certificate,Intermediate,8,"4,557 learners enrolled",,,
+1252,Skill path,Learn PHP,Includes 8 Courses,With Certificate,Beginner Friendly,17,"10,503 learners enrolled",,,
+1253,Free course,Learn HTML,,,Beginner Friendly,7,"2,032,797 learners enrolled",,4.6,"40,581 ratings"
+1254,Free course,Learn JavaScript,,,Beginner Friendly,15,"2,132,265 learners enrolled",,4.5,"27,114 ratings"
+1255,Free course,Learn CSS,,,Beginner Friendly,6,"395,309 learners enrolled",,4.5,"11,864 ratings"
+1256,Free course,Learn React,,,Intermediate,13,"357,588 learners enrolled",,4.4,"2,539 ratings"
+1257,Free course,Learn Lua,,,Beginner Friendly,4,"62,211 learners enrolled",,4.5,"2,431 ratings"
+1258,Free course,Learn TypeScript,,,Intermediate,10,"116,458 learners enrolled",,4.6,"1,762 ratings"
+1259,Free course,Learn Intermediate JavaScript,,,Intermediate,10,"91,932 learners enrolled",,4.4,"1,964 ratings"
+1260,Course,Learn the Command Line,,With Certificate,Beginner Friendly,4,"190,274 learners enrolled",,4.6,"6,104 ratings"
+1261,Free course,Learn Ruby,,,Beginner Friendly,9,"167,029 learners enrolled",,4.5,"2,448 ratings"
+1262,Free course,Learn PHP: Introduction,,,Beginner Friendly,2,"29,599 learners enrolled",,4.5,"1,459 ratings"
+1263,Free course,Learn Intermediate CSS,,,Intermediate,10,"73,025 learners enrolled",,4.4,"1,015 ratings"
+1264,Course,Learn Git & GitHub,,With Certificate,Beginner Friendly,4,"126,342 learners enrolled",,4.5,"1,653 ratings"
+1265,Course,Building Interactive JavaScript Websites,,With Certificate,Intermediate,6,"66,523 learners enrolled",,4.5,718 ratings
+1266,Free course,Learn React: Introduction,,,Beginner Friendly,6,"23,888 learners enrolled",,4.5,903 ratings
+1267,Free course,Learn Node.js,,,Intermediate,5,"72,779 learners enrolled",,4.3,"1,035 ratings"
+1268,Free course,Learn Game Development with Phaser.js,,,Intermediate,7,"60,860 learners enrolled",,4.4,162 ratings
+1269,Free course,Learn HTML: Fundamentals,,,Beginner Friendly,3,"17,419 learners enrolled",,4.6,"1,300 ratings"
+1270,Free course,Learn JavaScript: Fundamentals,,,Beginner Friendly,4,"14,522 learners enrolled",,4.7,806 ratings
+1271,Course,Learn Bootstrap,,With Certificate,Intermediate,3,"44,309 learners enrolled",,4.6,940 ratings
+1272,Free course,How to Make a Website with NameCheap,,,Beginner Friendly,4,"153,809 learners enrolled",,4.5,"1,194 ratings"
+1273,Free course,Learn CSS: Introduction ,,,Beginner Friendly,2,"14,165 learners enrolled",,4.6,"1,035 ratings"
+1274,Free course,Learn CSS: Flexbox and Grid,,,Beginner Friendly,4,"16,239 learners enrolled",,4.6,457 ratings
+1275,Free course,Learn PHP: Form Handling and Validation,,,Beginner Friendly,4,"8,825 learners enrolled",,4.4,194 ratings
+1276,Course,Learn Vue.js,,With Certificate,Beginner Friendly,4,"44,968 learners enrolled",,4.3,363 ratings
+1277,Free course,Learn AngularJS 1.X,,,Intermediate,6,"28,253 learners enrolled",,4.2,293 ratings
+1278,Free course,Learn TypeScript: Fundamentals,,,Beginner Friendly,1,"8,038 learners enrolled",,4.6,437 ratings
+1279,Course,Learn Spring,,With Certificate,Intermediate,5,"19,954 learners enrolled",,4.2,206 ratings
+1280,Course,Learn Ruby on Rails,,With Certificate,Intermediate,6,"23,563 learners enrolled",,3.8,95 ratings
+1281,Free course,Introduction to DevOps,,,Beginner Friendly,2,"19,425 learners enrolled",,4.5,446 ratings
+1282,Free course,Learn MongoDB,,,Beginner Friendly,5,"13,143 learners enrolled",,4.6,361 ratings
+1283,Course,Learn Express,,With Certificate,Intermediate,5,"22,472 learners enrolled",,4.3,183 ratings
+1284,Free course,Learn PHP: Functions,,,Beginner Friendly,3,"5,596 learners enrolled",,4.6,197 ratings
+1285,Course,Learn jQuery,,With Certificate,Beginner Friendly,4,"27,568 learners enrolled",,4.6,318 ratings
+1286,Free course,Learn CSS: Transitions and Animations,,,Beginner Friendly,1,"7,388 learners enrolled",,4.5,421 ratings
+1287,Free course,Learn JavaScript: Asynchronous Programming ,,,Beginner Friendly,3,"23,264 learners enrolled",,4.5,347 ratings
+1288,Free course,Learn the Basics of Regular Expressions,,,Beginner Friendly,1,"7,059 learners enrolled",,4.7,514 ratings
+1289,Free course,Learn HTML: Forms,,,Beginner Friendly,2,"8,099 learners enrolled",,4.5,360 ratings
+1290,Free course,"Learn Go: Loops, Arrays, Maps, and Structs",,,Beginner Friendly,4,"6,876 learners enrolled",,4.6,278 ratings
+1291,Free course,Learn PHP: Objects and Classes,,,Beginner Friendly,1,"5,498 learners enrolled",,4.5,217 ratings
+1292,Free course,Learn Intermediate PHP,,,Intermediate,4,"6,151 learners enrolled",,4.5,171 ratings
+1293,Free course,Learn Redux,,,Intermediate,7,"21,310 learners enrolled",,4.3,206 ratings
+1294,Course,Learn CSS: Responsive Design,,With Certificate,Intermediate,2,"8,198 learners enrolled",,4.6,450 ratings
+1295,Free course,Learn CSS: Box Model and Layout,,,Beginner Friendly,2,"8,360 learners enrolled",,4.5,366 ratings
+1296,Free course,Learn Node.js: Fundamentals,,,Beginner Friendly,3,"3,330 learners enrolled",,4.3,53 ratings
+1297,Course,Learn Advanced React,,With Certificate,Advanced,5,"8,346 learners enrolled",,4.5,123 ratings
+1298,Free course,Learn HTML: Tables,,,Beginner Friendly,1,"7,130 learners enrolled",,4.5,408 ratings
+1299,Course,Learn Sass,,With Certificate,Intermediate,3,"22,712 learners enrolled",,4.1,196 ratings
+1300,Free course,Learn TypeScript: Functions,,,Beginner Friendly,1,"2,960 learners enrolled",,4.6,98 ratings
+1301,Free course, Intro to Next.js,,,Intermediate,3,,,,
+1302,Free course,Learn HTML: Semantic HTML,,,Beginner Friendly,1,"6,380 learners enrolled",,4.6,368 ratings
+1303,Free course,Learn PHP: Arrays and Loops,,,Beginner Friendly,3,"4,623 learners enrolled",,4.4,125 ratings
+1304,Free course,Learn React: Hooks,,,Beginner Friendly,4,"3,776 learners enrolled",,4.4,157 ratings
+1305,Course,How to Deploy a Website,,With Certificate,Beginner Friendly,1,"29,865 learners enrolled",,4.4,215 ratings
+1306,Free course,Learn React Testing,,,Intermediate,4,"16,269 learners enrolled",,4.4,195 ratings
+1307,Free course,Learn PHP: Conditionals and Logic,,,Beginner Friendly,3,"4,128 learners enrolled",,4.6,110 ratings
+1308,Free course,Learn Node-SQLite,,,Intermediate,2,"6,536 learners enrolled",,4.4,76 ratings
+1309,Course,Learn Next.js,,With Certificate,Advanced,6,,,,
+1310,Free course,Learn JavaScript: Functions and Scope,,,Beginner Friendly,3,"4,098 learners enrolled",,4.7,163 ratings
+1311,Free course,Learn Flask: Fundamentals,,,Intermediate,2,"2,668 learners enrolled",,4.3,142 ratings
+1312,Free course,Learn React: Lifecycle Methods,,,Beginner Friendly,1,"2,849 learners enrolled",,4.4,134 ratings
+1313,Free course,Learn JavaScript: Classes and Modules,,,Beginner Friendly,4,"3,026 learners enrolled",,4.7,82 ratings
+1314,Free course,Learn JavaScript: Objects,,,Beginner Friendly,3,"3,822 learners enrolled",,4.7,97 ratings
+1315,Free course,Learn JavaScript: Arrays and Loops,,,Beginner Friendly,3,"3,926 learners enrolled",,4.6,119 ratings
+1316,Free course,Introduction to Blockchain and Crypto,,,Beginner Friendly,1,"10,596 learners enrolled",,4.3,264 ratings
+1317,Free course,Learn JavaScript: Best Practices,,,Beginner Friendly,1,"3,507 learners enrolled",,4.2,155 ratings
+1318,Free course,Learn Spring: Fundamentals and Controllers,,,Intermediate,3,"2,703 learners enrolled",,4.4,108 ratings
+1319,Free course,Learn CSS: Colors,,,Beginner Friendly,1,"5,129 learners enrolled",,4.6,303 ratings
+1320,Course,Learn JavaScript Unit Testing,,With Certificate,Intermediate,3,"12,833 learners enrolled",,4.4,222 ratings
+1321,Course,Software Design Principles,,With Certificate,Intermediate,1,"7,106 learners enrolled",,4.1,220 ratings
+1322,Free course,Learn CSS: Accessibility,,,Beginner Friendly,1,"2,958 learners enrolled",,4.5,129 ratings
+1323,Course,Learn ASP.NET,,With Certificate,Intermediate,13,"17,722 learners enrolled",,4,52 ratings
+1324,Free course,Learn TypeScript: Complex Types,,,Beginner Friendly,3,"1,880 learners enrolled",,4.4,60 ratings
+1325,Free course,Learn React: Additional Basics,,,Beginner Friendly,1,"1,855 learners enrolled",,4.3,89 ratings
+1326,Free course,Create a Professional Website with Velo by Wix,,,Beginner Friendly,17,"19,957 learners enrolled",,,
+1327,Free course,Learn Spring: Building an App,,,Intermediate,2,"2,956 learners enrolled",,4.5,88 ratings
+1328,Free course,Learn p5.js,,,Intermediate,9,"13,223 learners enrolled",,4.4,106 ratings
+1329,Free course,OWASP Top 10: Injection Attacks,,,Intermediate,1,"2,724 learners enrolled",,4.5,52 ratings
+1330,Free course,Learn User Research: Generative,,,Beginner Friendly,1,"3,710 learners enrolled",,4.4,136 ratings
+1331,Course,Connecting Front-End to Back-End,,With Certificate,Intermediate,1,"9,635 learners enrolled",,4.3,71 ratings
+1332,Free course,Learn CSS: Typography and Fonts,,,Beginner Friendly,1,"4,428 learners enrolled",,4.6,205 ratings
+1333,Free course,Learn A-Frame (VR),,,Intermediate,2,"19,286 learners enrolled",,4.4,133 ratings
+1334,Free course,Learn to Program Alexa,,,Beginner Friendly,2,"23,046 learners enrolled",,,
+1335,Course,Learn Flask,,With Certificate,Intermediate,12,"10,489 learners enrolled",,,
+1336,Free course,Learn CSS: Variables and Functions,,,Beginner Friendly,2,"3,156 learners enrolled",,4.6,100 ratings
+1337,Free course,Learn JavaScript: Requests,,,Beginner Friendly,2,"2,361 learners enrolled",,4.7,58 ratings
+1338,Free course,Learn JavaScript: Iterators,,,Beginner Friendly,2,"2,564 learners enrolled",,4.7,82 ratings
+1339,Free course,Learn Node.js: Setting Up a Server,,,Beginner Friendly,2,"2,136 learners enrolled",,,
+1340,Free course,Learn JavaScript: Error Handling,,,Beginner Friendly,1,"2,132 learners enrolled",,4.6,94 ratings
+1341,Course,Learn Intermediate TypeScript,,With Certificate,Intermediate,3,,,,
+1342,Free course,Learn Flask: Jinja2 Templates and Forms,,,Intermediate,4,,,,
+1343,Course,Learn Color Design,,With Certificate,Intermediate,2,"15,480 learners enrolled",,4.5,157 ratings
+1344,Course,Learn Navigation Design,,With Certificate,Intermediate,2,"10,470 learners enrolled",,4.1,77 ratings
+1345,Free course,Learn Sass: Fundamentals,,,Intermediate,1,"1,885 learners enrolled",,4.3,89 ratings
+1346,Free course,Learn React: State Management,,,Beginner Friendly,1,"1,683 learners enrolled",,4.4,85 ratings
+1347,Free course,Learn jQuery: Fundamentals,,,Intermediate,1,"1,151 learners enrolled",,4.4,53 ratings
+1348,Free course,Learn CSS: Browser Compatibility,,,Beginner Friendly,1,"2,494 learners enrolled",,4.3,118 ratings
+1349,Course,Learn Authentication with Ruby on Rails,,With Certificate,Intermediate,3,"3,574 learners enrolled",,,
+1350,Course,Learn D3,,With Certificate,Intermediate,1,"7,810 learners enrolled",,3.9,57 ratings
+1351,Course,Learn Testing for Web Development,,With Certificate,Intermediate,4,"9,816 learners enrolled",,,
+1352,Course,Learn WebSockets,,With Certificate,Intermediate,2,"5,256 learners enrolled",,,
+1353,Free course,Learn Phaser.js: Fundamentals,,,Intermediate,2,,,,
+1354,Free course,Learn TypeScript: Union Types,,,Beginner Friendly,1,"1,092 learners enrolled",,,
+1355,Free course,Learn TypeScript: Object Types,,,Beginner Friendly,1,"1,159 learners enrolled",,4.7,57 ratings
+1356,Course,API Development with Swagger and OpenAPI,,With Certificate,Intermediate,1,"4,668 learners enrolled",,4.3,126 ratings
+1357,Free course,Learn Flask: Databases,,,Intermediate,3,,,,
+1358,Free course,Learn About CSRF Attacks,,,Beginner Friendly,1,"1,179 learners enrolled",,4.3,107 ratings
+1359,Free course,Learn Sass: Mixins and Parent Selector,,,Intermediate,1,,,,
+1360,Course,Learn Intermediate TypeScript: Class Types,,With Certificate,Intermediate,1,,,,
+1361,Free course,Learn TypeScript: Type Narrowing,,,Beginner Friendly,1,,,,
+1362,Free course,Learn Design Thinking: Ideation,,,Beginner Friendly,1,"3,299 learners enrolled",,4.5,97 ratings
+1363,Free course,Learn jQuery: Effects and Event Handling,,,Intermediate,1,,,,
+1364,Free course,Learn Sass: Best Practices,,,Intermediate,1,"1,350 learners enrolled",,,
+1365,Free course,Learn Redux: Fundamentals,,,Beginner Friendly,5,"1,153 learners enrolled",,,
+1366,Free course,Learn Sass: Functions and Operations,,,Intermediate,1,,,,
+1367,Course,Learn Interaction Design,,With Certificate,Intermediate,2,"2,590 learners enrolled",,4.7,60 ratings
+1368,Free course,Learn jQuery: DOM Traversing,,,Intermediate,1,"1,017 learners enrolled",,,
+1369,Course,Learn CSS-in-JS,,With Certificate,Intermediate,1,"4,132 learners enrolled",,4,107 ratings
+1370,Free course,Learn Testing for Web Development: Fundamentals,,,Intermediate,1,"1,081 learners enrolled",,,
+1371,Free course,Learn React Router v6,,,Intermediate,2,"4,045 learners enrolled",,4.5,168 ratings
+1372,Free course,Learn Redux: Redux Toolkit,,,Beginner Friendly,1,"1,303 learners enrolled",,,
+1373,Free course,Learn Flask: Accounts and Authentication,,,Intermediate,2,,,,
+1374,Course,Learn Handlebars,,,Intermediate,2,"1,543 learners enrolled",,,
+1375,Free course,Learn jQuery: Styles,,,Intermediate,1,,,,
+1376,Free course,OWASP Top 10: Server Side Request Forgery,,,Intermediate,1,,,,
+1377,Course,Learn Build Tools,,With Certificate,Intermediate,2,"3,751 learners enrolled",,,
+1378,Course,Learn to Prevent SQL Injections with Node.js,,With Certificate,Intermediate,1,"1,068 learners enrolled",,,
+1379,Course,Learn to Prevent Cross-Site Scripting with Node.js,,With Certificate,Intermediate,1,,,,
+1380,Free course,Velo by Wix: Working with Data,,,Beginner Friendly,6,,,,
+1381,Course,Learn Intermediate TypeScript: Generics,,With Certificate,Intermediate,1,,,,
+1382,Free course,Learn p5.js: Fundamentals,,,Intermediate,5,,,,
+1383,Course,Learn Design Thinking: Iteration,,With Certificate,Intermediate,1,,,,
+1384,Free course,Learn Phaser.js: Animations and Visuals,,,Intermediate,2,,,,
+1385,Free course,Learn Phaser.js: Physics,,,Intermediate,2,,,,
+1386,Free course,OWASP Top 10: Security Misconfiguration,,,Beginner Friendly,1,,,,
+1387,Free course,Learn Testing for Web Development: Model Testing,,,Intermediate,2,,,,
+1388,Free course,OWASP Top 10: Security Logging and Monitoring Failures,,,Beginner Friendly,1,,,,
+1389,Free course,OWASP Top 10: Broken Access Control,,,Intermediate,1,"1,058 learners enrolled",,,
+1390,Free course,Velo by Wix: Interactivity,,,Beginner Friendly,6,,,,
+1391,Course,Learn User Research: Evaluative,,With Certificate,Intermediate,2,,,,
+1392,Free course,Learn Redux: Middleware and Thunks,,,Beginner Friendly,2,,,,
+1393,Free course,Learn Testing for Web Development: Server Testing,,,Intermediate,1,,,,
+1394,Free course,OWASP Top 10: Identification and Authentication Failures,,,Beginner Friendly,1,,,,
+1395,Course,Learn Intermediate TypeScript: Type Narrowing,,With Certificate,Intermediate,1,,,,
+1396,Free course,Learn p5.js: Interaction,,,Intermediate,2,,,,
+1397,Free course,OWASP Top 10: Software and Data Integrity Failures,,,Beginner Friendly,1,,,,
+1398,Free course,Learn p5.js: Media,,,Intermediate,2,,,,
+1399,Free course,Velo by Wix: Fundamentals,,,Beginner Friendly,1,,,,
+1400,Free course,Velo by Wix: Creating a Full-Stack App,,,Beginner Friendly,1,,,,
+1401,Free course,Velo by Wix: Using Async Actions for the Backend,,,Beginner Friendly,4,,,,
+1402,Free course,Learn Intermediate TypeScript: Configuration,,,Intermediate,1,,,,
+1403,Free course,Learn Conversational Design with Alexa,,,Intermediate,3,"2,653 learners enrolled",,,
+1404,Free course,Learn React Router v5,,,Beginner Friendly,1,,,,
+1405,Course,Deploying with Render,,With Certificate,Intermediate,1,,,,
+1406,Course,Deploying with Netlify,,With Certificate,Beginner Friendly,1,"1,935 learners enrolled",,,
+1407,Free course,Introduction to Back-End Programming,,,Beginner Friendly,1,"3,304 learners enrolled",,4.4,174 ratings
+1408,Course,Deploying with Heroku,,With Certificate,Beginner Friendly,1,,,,
+1409,Free course,Learning Django Using Generative AI Help,,,Beginner Friendly,2,,,,
+1410,Free course,Creating Django Views & Models,,,Intermediate,2,,,,
+1411,Free course,Prompt Engineering to Build a Django App,,,Intermediate,2,,,,
