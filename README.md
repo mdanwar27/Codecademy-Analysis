@@ -12,12 +12,6 @@ This project analyzes Codecademy student enrollment, course popularity, trends a
 4. Detect patterns in student engagement over time.
 5. Provide data-driven insights for course improvements.
 
-**📊 Key Insights :**
-
-1. ✅ Trends show an increase in interest in AI, Data Science, and Cloud Computing courses.
-2. ✅ Advanced courses have fewer enrollments.
-3. ✅ Most popular courses are typically beginner-friendly and related to programming languages like C and Python.
-
 ***🔧 Installation & Usage Instructions :**
 
 To run the Jupyter Notebook locally, follow these steps:
@@ -56,6 +50,12 @@ jupyter notebook
 ```
 
 Then navigate to the Codecademy Analysis.ipynb file and run the code cells.
+
+**📊 Key Insights :**
+
+1. ✅ Trends show an increase in interest in AI, Data Science, and Cloud Computing courses.
+2. ✅ Advanced courses have fewer enrollments.
+3. ✅ Most popular courses are typically beginner-friendly and related to programming languages like C and Python.
 
 **💡 Suggestions & Improvements :**
 
