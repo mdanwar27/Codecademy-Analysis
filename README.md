@@ -35,3 +35,9 @@ This project analyzes Codecademy student enrollment, course popularity, trends a
 **📜 License :**
 
 This project is for educational purposes only. Data sourced from Codecademy's official website.
+
+'''bash
+pip install python'''
+
+'''bash
+pip install numpy'''
