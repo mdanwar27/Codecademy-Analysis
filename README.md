@@ -60,11 +60,13 @@ Clone this GitHub repository to your local machine:
 
 ```bash
 git clone https://github.com/your-username/codecademy-analysis.git
-cd codecademy-analysis```
+cd codecademy-analysis
+```
 
 **4️⃣ Run the Jupyter Notebook**
 
 Start Jupyter Notebook and open the .ipynb file:
+
 ```bash
 jupyter notebook
 ```
