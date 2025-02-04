@@ -18,20 +18,14 @@ The data for this analysis was sourced from the official Codecademy website, thr
 
 You can download the Scrapped Jupyter Notebook File directly from the https://github.com/mdanwar27/Codecademy-Analysis/releases/download/notebook-v1/Scrapping_Codecademy-Final.ipynb
 
-**🔧 Installation & Usage Instructions :**
+## 🔧 Installation & Usage Instructions
 
-To run the Jupyter Notebook locally, follow these steps:
-
-## 1️⃣ Install Python and Jupyter Notebook ##
-
-Make sure you have Python 3.x installed. If not, download it from Python.org. Then, install Jupyter Notebook using:
-
+### 1️⃣ Install Python and Jupyter Notebook  
+Make sure you have Python 3.x installed. If not, download it from [Python.org](https://www.python.org/).  
+Then, install Jupyter Notebook using:  
 ```bash
 pip install jupyterlab
 
-### 2️⃣ Install Required Libraries ###
-
+2️⃣ Install Required Libraries
 Use the following command to install the necessary Python libraries:
-
-```bash
 pip install pandas numpy matplotlib seaborn
