@@ -29,7 +29,7 @@ Make sure you have Python 3.x installed. If not, download it from Python.org. Th
 ```bash
 pip install jupyterlab
 
-** 2️⃣ Install Required Libraries**
+**2️⃣  Install Required Libraries**
 
 Use the following command to install the necessary Python libraries:
 
