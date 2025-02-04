@@ -26,6 +26,6 @@ Then, install Jupyter Notebook using:
 ```bash
 pip install jupyterlab
 
-2️⃣ Install Required Libraries
+### 2️⃣ Install Required Libraries
 Use the following command to install the necessary Python libraries:
 pip install pandas numpy matplotlib seaborn
