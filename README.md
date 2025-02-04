@@ -22,14 +22,14 @@ You can download the Scrapped Jupyter Notebook File directly from the https://gi
 
 To run the Jupyter Notebook locally, follow these steps:
 
-**1️⃣ Install Python and Jupyter Notebook**
+## 1️⃣ Install Python and Jupyter Notebook##
 
 Make sure you have Python 3.x installed. If not, download it from Python.org. Then, install Jupyter Notebook using:
 
 ```bash
 pip install jupyterlab
 
-**2️⃣  Install Required Libraries**
+### 2️⃣ Install Required Libraries ###
 
 Use the following command to install the necessary Python libraries:
 
