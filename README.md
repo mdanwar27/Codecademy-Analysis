@@ -12,6 +12,12 @@ This project analyzes Codecademy student enrollment, course popularity, trends a
 4. Detect patterns in student engagement over time.
 5. Provide data-driven insights for course improvements.
 
+**📂 Data Source :**
+
+The data for this analysis was sourced from the official Codecademy website, through web scraping.
+
+You can download the Scrapped Jupyter Notebook File directly from the https://github.com/mdanwar27/Codecademy-Analysis/releases/download/notebook-v1/Scrapping_Codecademy-Final.ipynb
+
 ***🔧 Installation & Usage Instructions :**
 
 To run the Jupyter Notebook locally, follow these steps:
