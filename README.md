@@ -18,14 +18,20 @@ The data for this analysis was sourced from the official Codecademy website, thr
 
 You can download the Scrapped Jupyter Notebook File directly from the https://github.com/mdanwar27/Codecademy-Analysis/releases/download/notebook-v1/Scrapping_Codecademy-Final.ipynb
 
-## 🔧 Installation & Usage Instructions
+**💡 Suggestions & Improvements :**
 
-### 1️⃣ Install Python and Jupyter Notebook  
-Make sure you have Python 3.x installed. If not, download it from [Python.org](https://www.python.org/).  
-Then, install Jupyter Notebook using:  
-```bash
-pip install jupyterlab
+1. Apply sentiment analysis on student reviews.
 
-### 2️⃣ Install Required Libraries
-Use the following command to install the necessary Python libraries:
-pip install pandas numpy matplotlib seaborn
+2. Compare Codecademy's courses with competitors like Coursera, Udemy, and edX for benchmarking.
+
+3. Explore how gamification (badges, leaderboards) impacts student engagement.
+
+**🚧 Challenges :**
+
+❌ Missing Data – Some courses lacked sufficient enrollment or rating data.
+
+❌ Bias in Reviews – Ratings may not always reflect course quality accurately due to limited feedback.
+
+**📜 License :**
+
+This project is for educational purposes only. Data sourced from Codecademy's official website.
