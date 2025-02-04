@@ -36,10 +36,21 @@ This project analyzes Codecademy student enrollment, course popularity, trends a
 
 This project is for educational purposes only. Data sourced from Codecademy's official website.
 
-```bash
-pip install python
-```
+***🔧 Installation & Usage Instructions :**
+
+To run the Jupyter Notebook locally, follow these steps:
+
+**1️⃣Install Python and Jupyter Notebook**
+
+Make sure you have Python 3.x installed. If not, download it from Python.org. Then, install Jupyter Notebook using:
 
 ```bash
-pip install numpy
+pip install jupyterlab
+```
+**2️⃣Install Required Libraries**
+
+Use the following command to install the necessary Python libraries:
+
+```bash
+pip install pandas numpy matplotlib seaborn
 ```
