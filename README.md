@@ -70,3 +70,5 @@ Start Jupyter Notebook and open the .ipynb file:
 ```bash
 jupyter notebook
 ```
+
+Then navigate to the Codecademy Analysis.ipynb file and run the code cells.
