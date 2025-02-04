@@ -18,7 +18,7 @@ The data for this analysis was sourced from the official Codecademy website, thr
 
 You can download the Scrapped Jupyter Notebook File directly from the https://github.com/mdanwar27/Codecademy-Analysis/releases/download/notebook-v1/Scrapping_Codecademy-Final.ipynb
 
-***🔧 Installation & Usage Instructions :**
+**🔧 Installation & Usage Instructions :**
 
 To run the Jupyter Notebook locally, follow these steps:
 
