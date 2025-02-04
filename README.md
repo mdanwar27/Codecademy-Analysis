@@ -18,24 +18,6 @@ This project analyzes Codecademy student enrollment, course popularity, trends a
 2. ✅ Advanced courses have fewer enrollments.
 3. ✅ Most popular courses are typically beginner-friendly and related to programming languages like C and Python.
 
-**💡 Suggestions & Improvements :**
-
-1. Apply sentiment analysis on student reviews.
-
-2. Compare Codecademy's courses with competitors like Coursera, Udemy, and edX for benchmarking.
-
-3. Explore how gamification (badges, leaderboards) impacts student engagement.
-
-**🚧 Challenges :**
-
-❌ Missing Data – Some courses lacked sufficient enrollment or rating data.
-
-❌ Bias in Reviews – Ratings may not always reflect course quality accurately due to limited feedback.
-
-**📜 License :**
-
-This project is for educational purposes only. Data sourced from Codecademy's official website.
-
 ***🔧 Installation & Usage Instructions :**
 
 To run the Jupyter Notebook locally, follow these steps:
@@ -47,6 +29,7 @@ Make sure you have Python 3.x installed. If not, download it from Python.org. Th
 ```bash
 pip install jupyterlab
 ```
+
 **2️⃣ Install Required Libraries**
 
 Use the following command to install the necessary Python libraries:
@@ -54,6 +37,7 @@ Use the following command to install the necessary Python libraries:
 ```bash
 pip install pandas numpy matplotlib seaborn
 ```
+
 **3️⃣ Clone the Repository**
 
 Clone this GitHub repository to your local machine:
@@ -72,3 +56,21 @@ jupyter notebook
 ```
 
 Then navigate to the Codecademy Analysis.ipynb file and run the code cells.
+
+**💡 Suggestions & Improvements :**
+
+1. Apply sentiment analysis on student reviews.
+
+2. Compare Codecademy's courses with competitors like Coursera, Udemy, and edX for benchmarking.
+
+3. Explore how gamification (badges, leaderboards) impacts student engagement.
+
+**🚧 Challenges :**
+
+❌ Missing Data – Some courses lacked sufficient enrollment or rating data.
+
+❌ Bias in Reviews – Ratings may not always reflect course quality accurately due to limited feedback.
+
+**📜 License :**
+
+This project is for educational purposes only. Data sourced from Codecademy's official website.
