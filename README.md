@@ -54,3 +54,10 @@ Use the following command to install the necessary Python libraries:
 ```bash
 pip install pandas numpy matplotlib seaborn
 ```
+**3️⃣ Clone the Repository**
+
+Clone this GitHub repository to your local machine:
+
+```bash
+git clone https://github.com/your-username/codecademy-analysis.git
+cd codecademy-analysis```
